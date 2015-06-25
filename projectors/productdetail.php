@@ -51,7 +51,7 @@
     ================================================== -->
 
 
-        <div class="intro intro-feature1">
+        <div class="intro">
             <div class="container">
                 <div class="row">
                     <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
@@ -61,44 +61,6 @@
                     <div class="col-xs-12">
                         <h4 class="text-white">Morimoto produces powerful lights. Our projectors put the power down.</h4> 
                         <a type="button" class="btn btn-large" href="#">Projectors</a>
-                    </div>  
-   
-                    <a name="down"></a>
-
-                </div>
-            </div>
-            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down"></a>
-        </div>
-
-        <div class="intro intro-feature2">
-            <div class="container">
-                <div class="row">
-                    <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
-                        <img src="img/feature2headline.svg" alt="" border="0"/>
-                    </div>
-
-                    <div class="col-xs-12">
-                        <h4 class="text-white">Morimoto understands the equal importance of both seeing and being seen.</h4> 
-                        <a type="button" class="btn btn-large" href="#">Applications</a>
-                    </div>  
-   
-                    <a name="down"></a>
-
-                </div>
-            </div>
-            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down"></a>
-        </div>
-
-        <div class="intro intro-feature3">
-            <div class="container">
-                <div class="row">
-                    <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
-                        <img src="img/feature3headline.svg" alt="" border="0"/>
-                    </div>
-
-                    <div class="col-xs-12">
-                        <h4 class="text-white">OEM Grade XB HID technology by Morimoto outshines the competition.</h4> 
-                        <a type="button" class="btn btn-large" href="#">HID Bulbs</a>
                     </div>  
    
                     <a name="down"></a>

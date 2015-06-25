@@ -37,7 +37,7 @@
 
 </head>
 
-<body class="feature1 productcategory">
+<body class="feature1 productcategory projectors">
 
     <!-- Header
     ================================================== -->
@@ -75,7 +75,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap">
+                            <a class="thumbnailWrap" href="/client/TRS/MorimotoHID/projectors/productdetail.php">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
                                         <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
@@ -91,7 +91,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap">
+                            <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
                                         <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
@@ -106,7 +106,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap">
+                            <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
                                         <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
@@ -121,7 +121,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap">
+                            <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
                                         <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
@@ -136,7 +136,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap">
+                            <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
                                         <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
@@ -151,7 +151,7 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap">
+                            <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
                                         <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">

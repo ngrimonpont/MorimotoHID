@@ -422,6 +422,14 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 	.dropdown-menu li > a { letter-spacing: 0; }
 	.dropdown-menu-ext { padding: 135px 0 0 0; }
 	.dropdown-menu-ext p { font-size: 13px; }
+	.productcategory.projectors .intro { background-image: url(../img/vector-projector.svg); }
+	.productcategory.ballasts .intro { background-image: url(../img/vector-ballast.svg); }
+	.productcategory.bulbs .intro { background-image: url(../img/vector-bulb.svg); }
+	.productcategory.wireharnesses .intro { background-image: url(../img/vector-wireharness.svg); }
+	.productcategory.shrouds .intro { background-image: url(../img/vector-shroud.svg); }
+	.productcategory.ledlighting .intro { background-image: url(../img/vector-ledlighting.svg); }
+	.productcategory.housings .intro { background-image: url(../img/vector-housing.svg); }
+	.productcategory.clearlenses .intro { background-image: url(../img/vector-clearlens.svg); }
 }
 @media (max-device-width:668px) and (orientation:landscape) {
   .nav > li { width: 50%; float: left; }
@@ -703,7 +711,7 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 }
 
 
-/* HOME
+/* PAGE SPECIFIC STYLES
 ======================================================================================================================================================
 ====================================================================================================================================================== */
 
@@ -715,6 +723,9 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 .intro h4 { text-shadow: 0 0 10px #111; }
 .home .intro h4 { margin-bottom: 20px; }
 .intro .btn-empty.btn-lg.icon { height: 70px; position: absolute; bottom: 0; left: 50%; margin-left: -22px; }
+
+.productcategory .intro { background-position: top right; background-repeat: no-repeat; -webkit-background-size: auto 100%; -moz-background-size: auto 100%; -o-background-size: auto 100%; background-size: auto 100%; }
+
 
 .section { width: 100%; overflow: hidden; padding-top: 40px; padding-bottom: 40px; }
 

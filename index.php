@@ -40,7 +40,7 @@
 
 </head>
 
-<body class="feature1">
+<body class="home feature1">
 
     <!-- Header
     ================================================== -->
@@ -56,7 +56,7 @@
 
         <div class="intro intro-feature1">
             <div class="container">
-                <div class="row">
+                <div class="row centered">
                     <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
                         <img src="img/feature1headline.svg" alt="" border="0"/>
                     </div>
@@ -75,7 +75,7 @@
 
         <div class="intro intro-feature2">
             <div class="container">
-                <div class="row">
+                <div class="row centered">
                     <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
                         <img src="img/feature2headline.svg" alt="" border="0"/>
                     </div>
@@ -94,7 +94,7 @@
 
         <div class="intro intro-feature3">
             <div class="container">
-                <div class="row">
+                <div class="row centered">
                     <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
                         <img src="img/feature3headline.svg" alt="" border="0"/>
                     </div>
@@ -111,7 +111,7 @@
             <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down"></a>
         </div>
 
-        <div class="section module-about">
+        <div class="section module-callout">
             <div class="container-fluid">
                 <div class="container">
                     <div class="row">

@@ -37,7 +37,7 @@
 
 </head>
 
-<body class="productdetail">
+<body class="utility productdetail">
 
     <!-- Header
     ================================================== -->
@@ -50,270 +50,371 @@
     ==================================================
     ================================================== -->
 
-
-        <div class="intro">
-            <div class="container">
-                <div class="row">
-                    <div class="featureHeadline col-xs-12 col-sm-10 col-sm-offset-1">
-                        <img src="img/feature1headline.svg" alt="" border="0"/>
-                    </div>
-
-                    <div class="col-xs-12">
-                        <h4 class="text-white">Morimoto produces powerful lights. Our projectors put the power down.</h4> 
-                        <a type="button" class="btn btn-large" href="#">Projectors</a>
-                    </div>  
-   
-                    <a name="down"></a>
-
-                </div>
-            </div>
-            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down"></a>
-        </div>
-
-        <div class="section module-about">
-            <div class="container-fluid">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-10 col-md-offset-1 centered">
-                            <h4 class="text-golddark">We redefine the automotive aftermarket for</h4>
-                            <h1>High Intensity Lighting</h1>
-                            <p class="text-uppercase text-weight700pluto">Taking the poorly lit back roads has never been more exciting with Morimoto powered headlamps.</p>
-                            <p>Morimoto lighting was established in 2008 to fill the gap in the aftermarket for truly high quality automotive lighting products. Without the budget of a major automaker to back R&amp;D and production, individual consumers could either salvage original equipment components, or be forced to settle for inferior aftermarket parts. If you are an enthusiast, a fabricator, or a distributor and have found yourself unimpressed with the ‘dime-a-dozen’ HID kits and accessories from other manufactures, then we urge you to take a closer look at what we have to offer. Search the web for an alternative name in lighting that comes more widely recommended by end-users for performance, reliability, and the way it looks and if you can find it, then buy it. Morimoto is the automotive lighting benchmark.</p>
-                            <a type="button" class="btn btn-primary btn-sm" href="#">More About Us</a>
+        <div class="container-fluid">   
+            <div class="row">
+               
+                <div class="carousel slide article-slide" id="morimotoCarousel">
+                    <!-- Carousel Slides -->
+                    <div class="carousel-inner cont-slider">
+                        <div class="item active">
+                            <img src="../img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
                         </div>
+                        <div class="item">
+                            <img src="../img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                        </div>
+                        <div class="item">
+                            <img src="../img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
+                        </div> 
+                        <div class="item">
+                            <img src="../img/temp--Morimoto XB35 AMP Ballast 4.jpg" class="img-responsive" alt="" border="none">
+                        </div> 
+                        <div class="item">
+                            <img src="../img/temp--Morimoto XB35 AMP Ballast 5.jpg" class="img-responsive" alt="" border="none">
+                        </div>
+                        <div class="item">
+                            <img src="../img/temp--Morimoto XB35 AMP Ballast 6.jpg" class="img-responsive" alt="" border="none">
+                        </div> 
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="section module-quickstartguide">
-            <div class="container-fluid">
-                <div class="module-quickstartguideInner">
+                    <!-- Carousel Nav Controls --> 
+                    <a class="left carousel-control" href="#morimotoCarousel" role="button" data-slide="prev"><span class=" btn btn-lg btn-empty icon icon-arrowL939598 icon-prev"></span></a>
+                    <a class="right carousel-control" href="#morimotoCarousel" role="button" data-slide="next"><span class="btn btn-lg btn-empty icon icon-arrowR939598 icon-next"></span></a> 
                     
+                    <!-- Indicators -->
                     <div class="container">
                         <div class="row">
-                            <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
-                                <div class="row">
-                                    <div class="lead col-xs-12 col-md-6">
-                                        <h5 class="text-gray">Find the <span class="hidden-xs">Morimoto </span>Products for you</h5>
-                                        <h2 class="text-white">Quick Start Guide:</h2>
-                                    </div>  
-                                    <div class="col-xs-12 col-md-6">        
-                                        <form class="form-horizontal">
-                                            <fieldset>
-                                                <div class="form-group">
-                                                    <div class="col-xs-12 col-sm-3">
-                                                        <select class="form-control drop" id="select">
-                                                            <option value="">Year</option>
-                                                            <option value="2016">2016</option>
-                                                            <option value="2015">2015</option>
-                                                            <option value="2014">2014</option>
-                                                            <option value="2013">2013</option>
-                                                            <option value="2012">2012</option>
-                                                            <option value="2011">2011</option>
-                                                            <option value="2010">2010</option>
-                                                            <option value="2009">2009</option>
-                                                            <option value="2008">2008</option>
-                                                            <option value="2007">2007</option>
-                                                            <option value="2006">2006</option>
-                                                            <option value="2005">2005</option>
-                                                            <option value="2004">2004</option>
-                                                            <option value="2003">2003</option>
-                                                            <option value="2002">2002</option>
-                                                            <option value="2001">2001</option>
-                                                            <option value="2000">2000</option>
-                                                            <option value="1999">1999</option>
-                                                            <option value="1998">1998</option>
-                                                            <option value="1997">1997</option>
-                                                            <option value="1996">1996</option>
-                                                            <option value="1995">1995</option>
-                                                            <option value="1994">1994</option>
-                                                            <option value="1993">1993</option>
-                                                            <option value="1992">1992</option>
-                                                            <option value="1991">1991</option>
-                                                            <option value="1990">1990</option>
-                                                            <option value="1989">1989</option>
-                                                            <option value="1988">1988</option>
-                                                            <option value="1987">1987</option>
-                                                            <option value="1986">1986</option>
-                                                            <option value="1985">1985</option>
-                                                            <option value="1984">1984</option>
-                                                            <option value="1983">1983</option>
-                                                            <option value="1982">1982</option>
-                                                            <option value="1981">1981</option>
-                                                            <option value="1980">1980</option>
-                                                            <option value="1979">1979</option>
-                                                            <option value="1978">1978</option>
-                                                            <option value="1977">1977</option>
-                                                            <option value="1976">1976</option>
-                                                            <option value="1975">1975</option>
-                                                            <option value="1974">1974</option>
-                                                            <option value="1973">1973</option>
-                                                            <option value="1972">1972</option>
-                                                            <option value="1971">1971</option>
-                                                            <option value="1970">1970</option>
-                                                            <option value="1969">1969</option>
-                                                            <option value="1968">1968</option>
-                                                            <option value="1967">1967</option>
-                                                            <option value="1966">1966</option>
-                                                            <option value="1965">1965</option>
-                                                            <option value="1964">1964</option>
-                                                            <option value="1963">1963</option>
-                                                            <option value="1962">1962</option>
-                                                            <option value="1961">1961</option>
-                                                            <option value="1960">1960</option>
-                                                            <option value="1959">1959</option>
-                                                            <option value="1958">1958</option>
-                                                            <option value="1957">1957</option>
-                                                            <option value="1956">1956</option>
-                                                            <option value="1955">1955</option>
-                                                            <option value="1954">1954</option>
-                                                            <option value="1953">1953</option>
-                                                            <option value="1952">1952</option>
-                                                            <option value="1951">1951</option>
-                                                            <option value="1950">1950</option>
-                                                            <option value="1949">1949</option>
-                                                            <option value="1948">1948</option>
-                                                            <option value="1947">1947</option>
-                                                            <option value="1946">1946</option>
-                                                            <option value="1945">1945</option>
-                                                            <option value="1944">1944</option>
-                                                            <option value="1943">1943</option>
-                                                            <option value="1942">1942</option>
-                                                            <option value="1941">1941</option>
-                                                            <option value="1940">1940</option>
-                                                            <option value="1939">1939</option>
-                                                            <option value="1938">1938</option>
-                                                            <option value="1937">1937</option>
-                                                            <option value="1936">1936</option>
-                                                            <option value="1935">1935</option>
-                                                            <option value="1934">1934</option>
-                                                            <option value="1933">1933</option>
-                                                            <option value="1932">1932</option>
-                                                            <option value="1931">1931</option>
-                                                            <option value="1930">1930</option>
-                                                            <option value="1929">1929</option>
-                                                            <option value="1928">1928</option>
-                                                            <option value="1927">1927</option>
-                                                            <option value="1926">1926</option>
-                                                            <option value="1925">1925</option>
-                                                            <option value="1924">1924</option>
-                                                            <option value="1923">1923</option>
-                                                            <option value="1922">1922</option>
-                                                            <option value="1921">1921</option>
-                                                            <option value="1920">1920</option>
-                                                            <option value="1919">1919</option>
-                                                            <option value="1918">1918</option>
-                                                            <option value="1917">1917</option>
-                                                            <option value="1916">1916</option>
-                                                            <option value="1915">1915</option>
-                                                            <option value="1914">1914</option>
-                                                            <option value="1913">1913</option>
-                                                            <option value="1912">1912</option>
-                                                            <option value="1911">1911</option>
-                                                            <option value="1910">1910</option>
-                                                            <option value="1909">1909</option>
-                                                            <option value="1908">1908</option>
-                                                            <option value="1907">1907</option>
-                                                            <option value="1906">1906</option>
-                                                            <option value="1905">1905</option>
-                                                            <option value="1904">1904</option>
-                                                            <option value="1903">1903</option>
-                                                            <option value="1902">1902</option>
-                                                            <option value="1901">1901</option>
-                                                            <option value="1900">1900</option>
-                                                        </select>
+                            <ol class="carousel-indicators visible-lg visible-md">
+                                <li class="col-md-1 active" data-slide-to="0" data-target="#morimotoCarousel">
+                                    <img src="../img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                </li>
+                                <li class="col-md-1" data-slide-to="1" data-target="#morimotoCarousel">
+                                    <img src="../img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                </li>
+                                <li class="col-md-1" data-slide-to="2" data-target="#morimotoCarousel">
+                                    <img src="../img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
+                                </li>  
+                                <li class="col-md-1" data-slide-to="3" data-target="#morimotoCarousel">
+                                    <img src="../img/temp--Morimoto XB35 AMP Ballast 4.jpg" class="img-responsive" alt="" border="none">
+                                </li>  
+                                <li class="col-md-1" data-slide-to="4" data-target="#morimotoCarousel">
+                                    <img src="../img/temp--Morimoto XB35 AMP Ballast 5.jpg" class="img-responsive" alt="" border="none">
+                                </li>
+                                <li class="col-md-1" data-slide-to="5" data-target="#morimotoCarousel">
+                                    <img src="../img/temp--Morimoto XB35 AMP Ballast 6.jpg" class="img-responsive" alt="" border="none">
+                                </li>               
+                            </ol>     
+                        </div>
+                    </div>                    
+                </div>
+
+            </div>
+        </div>    
+
+        <div class="section"> 
+            <div class="container">   
+                <div class="row">
+                    <div class="col-sm-6 pull-right">      
+                        <div class="panelWrap panel-product">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <h5>Product Category</h5>
+                                    <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                </div>
+                                <div class="panel-body">
+                                    <form class="form-horizontal">
+                                        <fieldset>
+                                            <div class="form-group">
+                                                <div class="col-sm-6">
+                                                    <select class="form-control drop" id="select">
+                                                        <option value="">Topic</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <select class="form-control drop" id="select">
+                                                        <option value="">Topic</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            <div class="form-group">
+                                                <div class="col-sm-6">
+                                                    <select class="form-control drop" id="select">
+                                                        <option value="">Topic</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <select class="form-control drop" id="select">
+                                                        <option value="">Topic</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                        <option value="#">#</option>
+                                                    </select>
+                                                </div>
+                                            </div>
+                                            
+                                            <hr class="aligncenter">
+
+                                            <h2 class="text-right"><span class="text-gold">$439.99</span> <span class="h4 text-graylight text-weight400bank">MSRP</span></h2>
+
+                                            <div class="form-group col-sm-9 pull-right">
+                                                <div class="row">
+                                                <div class="input-group spinner">
+                                                    <input type="text" class="form-control input-lg" value="1">
+                                                    <div class="input-group-btn-vertical">
+                                                        <button class="btn btn-large" type="button">+</button>
+                                                        <button class="btn btn-large" type="button">–</button>
                                                     </div>
-                                                    <div class="col-xs-12 col-sm-4">
-                                                        <select class="form-control drop" id="select">
-                                                            <option value="">Make</option>
-                                                            
-                                                        </select>
+                                                    <div class="input-group-btn">
+                                                        <a type="button" class="btn btn-large" href="#">Add <span class="hidden-xs">to Cart</span></a>
                                                     </div>
-                                                    <div class="col-xs-12 col-sm-4">
-                                                        <select class="form-control drop" id="select">
-                                                            <option value="">Model</option>
-                                                            
-                                                        </select>
-                                                    </div>
-                                                    <div class="col-xs-1 col-xs-offset-10 col-sm-1 col-sm-offset-0">
-                                                        <a type="submit" class="btn btn-empty icon icon-arrowRfff" href="#"></a>
-                                                    </div>
-                                                </div>      
-                                            </fieldset>
-                                        </form> 
-                                    </div>          
-                                </div>    
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </fieldset>
+                                    </form> 
+                                    <h5 class="text-right text-muted">Part #: 49468, 49469, 49470, 49471</h5>    
+                                </div>
                             </div>
                         </div>
+                    </div>  
+
+                    <div class="col-sm-6"> 
+                        <hr class="aligncenter">
+                        <a class="btn-group" href="#">
+                            <button type="button" class="btn btn-primary-icon"><span class="icon icon-download icon-withText"></span></button>
+                            <button type="button" class="btn btn-primary">Installation Guide</button>
+                        </a>
+                        <a class="btn-group" href="#">
+                            <button type="button" class="btn btn-primary-icon"><span class="icon icon-map icon-withText"></span></button>
+                            <button type="button" class="btn btn-primary">Locate a Dealer</button>
+                        </a>
+                        <hr class="aligncenter">
+                        <ul class="btn-group"> 
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
+                        </ul>    
+                        <p class="nopadding"><small>*Click for details</small></p>
+                    </div>    
+
+                </div>
+            </div>
+        </div>
+
+        <div class="section"><div class="container"><hr></div></div>
+
+        <div class="section description">
+            <div class="container">
+                <div class="row">
+                    <div class="lead col-xs-12">
+                        <h5>Something something something</h5>
+                        <h2>Description</h2>
+                    </div>  
+                    <div class="col-xs-12 col-md-6">
+                        <p><span class="lead">Chrysler Canbus:</span> Modern Chrysler products like the 2013+ Ram with OEM projector headlights hate headlight upgrades. Whether its a "Lamp Out" error or a flickering problem plaguing your new Ram's headlight upgrade - this harness will do the trick! </p>
+
+                        <p><span class="lead">What's in a Name:</span> Though its name suggests it will only work on a Dodge Ram, this harness is becoming more and more commonly needed on a lot of modern vehicles. Got a "lamp out" warning and suffering from annoying flickering too? this harness just may be the answer you've been looking for.</p>
+
+                        <p><span class="lead">Capacitor &amp; Resistors:</span> The Mopar Spec harness is built around our standard HD low Beam harnesses, but there is also a 4700mF capacitor link to help absorb any pulsing signals emitted from the stock output for uninterrupted relay function. The HD Resistors add the load back onto the factory harness, tricking the ECU into thinking the stock halogen bulbs are still installed. The result is no errors or flickering.</p>
+
+                        <p><span class="lead">Don't Skimp:</span> As one of the most important parts in any HID lighting upgrade; don't skimp out when it comes to your wiring. It doesn't matter how good your ballasts are. how good your bulbs are. If your harness is a piece of crap: when it gives out your headlights are gonezo. The Morimoto HD Relay harness is easily worth the premium price compared to cheaper alternatives.</p>
+
+                        <p><span class="lead">Plug n Play:</span> The layout of the harness makes it easy to install. With just a few simple connections; even your mom could set this thing up! Wire lengths are long enough to be used in everything from compact cars to SUV's and it's designed to be 100% plug and play (no cutting or splicing needed).</p>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <p><span class="lead">Fail-Safe:</span> Unlike most generic harnesses out there that rely on a single low-quality relay to power both headlights, the Morimoto Harness utilizes one relay per side- so if one did happen fail, you wouldn't be left completely in the dark. Each 40A relay is completely sealed against the elements using ribbed silicone upper and lower seals, and has an flywheel diode for back-EMF protection. Every other connection harness-wide is sealed with the proper silicone grommets. Live somewhere with weather that regularly sucks? No problem.</p>
+
+                        <p><span class="lead">OEM Grade:</span> Aside from being ahead of the game from a technical standpoint, the Mopar HD relay is also a work of art. With it's wiring protected by abrasion resistant Techflex mesh sleeving and OEM-style relay cubes held together by a laser engraved mounting bracket that's been artfully anodized with a titanium gray finish - the HD relay will look factory fresh under the hood!
+
+                        <p><span class="small">*NOTE: This harness only works on the 13-14 Dodge Ram, will not work on the 2015+ (we are still developing a solution for the updated truck).</span></p>
+
+                        <p><span class="lead">Trusted:</span> With the Internet's best reputation for unbeatable products, prices, and customer service; The Retrofit Source is trusted by car guys world-wide, so we invite you to <a href="#">Contact Us</a> today with your questions. Whether you need a recommendation on parts, have a tech question, or even a wholesale inquiry: our customer service team is here to help!</p>
                     </div>
 
                 </div>
             </div>
         </div>
 
-        <div class="section module-news">
-                <div class="container">
-                        <div class="row">
-                            <div class="lead col-xs-12">
-                                <h5>Never stop moving</h5>
-                                <h2 class="text-white">The Latest &amp; Greatest</h2>
-                            </div>  
-                            <div class="col-sm-12">
-                                <a class="thumbnailWrap">
-                                    <div class="thumbnail special">
-                                        <div class="thumbnail-image col-sm-6 pull-right">
-                                            <img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
-                                        </div>
-                                        <div class="caption col-sm-6">
-                                            <h5>Apr 24, 2015</h5>
-                                            <h2>D2S: XB35 HID Ballasts</h2>
-                                            <p class="small">With distribution exceeding 150,000 units over the last four years; more enthusiasts chose Morimoto over any other aftermarket ballast. Easily filling the shoes of the 3Five units that they replace, the brand new XB35 ballasts excel in every way.</br></br>
-                                            Like all modern OEM D1 and D2 ballasts: the XB has modular igniters far closer to the HID bulb. The lack of high voltage transmitted through wiring drastically reduces EMI/RFI (radio interference). Total system reliability is also improved by shielding the main circuit board from the static produced by these high voltage bursts on start up.</p>
-                                            <button type="button" class="btn btn-primary" href="#">Learn More</button>
-                                        </div>
-                                    </div>    
-                                </a>
+        <div class="section"><div class="container"><hr></div></div>
+
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                        <img src="../img/productDiagram-ballast-55w.svg" class="img-responsive" alt="" border="none">
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <img src="../img/productDiagram-ballast-55w2.svg" class="img-responsive" alt="" border="none">
+                    </div>
+                    <div class="col-xs-12 col-md-4">
+                        <img src="../img/productDiagram-ballast-55w3.svg" class="img-responsive" alt="" border="none">
+                    </div>
+                </div>    
+            </div>
+        </div>
+
+        <div class="section"><div class="container"><hr></div></div>
+
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-md-4">
+                        <div class="panelWrap">
+                            <div class="panel panel-default list-group">
+                                <div class="panel-heading"><h4>Compatibility</h4></div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Ballasts:</p>
+                                        <p class="col-sm-6 small">35W, 50W</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Stock Bulb Size:</p>
+                                        <p class="col-sm-6 small">9006, HB4</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">HID Systems:</p>
+                                        <p class="col-sm-6 small">Low or High Beams and Fog Lights</p>
+                                    </div>  
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Bi-xenon Capable:</p>
+                                        <p class="col-sm-6 small">With <a href="#">High Beam Splitters</a></p>
+                                    </div>  
+                                </div>
                             </div>
-                            <div class="col-sm-6">
-                                <a class="thumbnailWrap">
-                                    <div class="thumbnail">
-                                        <div class="thumbnail-image">
-                                            <img src="img/news/news-led-20150623.jpg" class="img-responsive" alt="" border="none">
-                                        </div>
-                                        <div class="caption col-xs-12">
-                                            <h5>Apr 24, 2015</h5>
-                                            <h3>The Future is bright</h3>
-                                            <p class="small">And it’s powered by an LED. Morimoto is exploring and refining optical systems based on solid-state lighting.</p>
-                                            <hr>
-                                            <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
-                                        </div>
-                                    </div>    
-                                </a>
+                        </div>  
+                    </div>     
+                    <div class="col-xs-12 col-md-4">
+                        <div class="panelWrap">
+                            <div class="panel panel-default list-group">
+                                <div class="panel-heading"><h4>Tech Specs</h4></div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">One Harness:</p>
+                                        <p class="col-sm-6 small">Controls for Both Headlights</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">1x Input Trigger:</p>
+                                        <p class="col-sm-6 small">9006 Male</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">2x Ballast Outputs:</p>
+                                        <p class="col-sm-6 small">9006 Female</p>
+                                    </div>  
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">1x 12V Power:</p>
+                                        <p class="col-sm-6 small">Nickel-Plated Ring-Type</p>
+                                    </div>  
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">5x Grounds: </p>
+                                        <p class="col-sm-6 small">Nickel-Plated Ring-Type</p>
+                                    </div>  
+                                </div>
                             </div>
-                            <div class="col-sm-6">
-                                <a class="thumbnailWrap">
-                                    <div class="thumbnail">
-                                        <div class="thumbnail-image">
-                                            <img src="img/news/news-expandnetwork-20150623.jpg" class="img-responsive" alt="" border="none">
-                                        </div>
-                                        <div class="caption col-xs-12">
-                                            <h5>Apr 24, 2015</h5>
-                                            <h3>Morimoto Expands Dealer Network</h3>
-                                            <p class="small">By Q2 2015, in cooperation with our dealers: International demand distribution has increased by over 50% since 2014.</p>
-                                            <hr>
-                                            <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
-                                        </div>
-                                    </div>    
-                                </a>
-                            </div>  
-                        </div>
+                        </div>  
+                    </div> 
+                    <div class="col-xs-12 col-md-4">
+                        <div class="panelWrap">
+                            <div class="panel panel-default list-group">
+                                <div class="panel-heading"><h4>Electrical</h4></div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Output:</p>
+                                        <p class="col-sm-6 small">35W</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Ignition Voltage:</p>
+                                        <p class="col-sm-6 small">23K</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Input Voltage:</p>
+                                        <p class="col-sm-6 small">AC85 9-32V</p>
+                                    </div>  
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Input Current:</p>
+                                        <p class="col-sm-6 small">&lt; 5A</p>
+                                    </div>  
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Open Circuit:</p>
+                                        <p class="col-sm-6 small">Protected (&lt; 1s)</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Short Circuit:</p>
+                                        <p class="col-sm-6 small">Protected (&lt; 1s)</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Climate Range:</p>
+                                        <p class="col-sm-6 small">-40C to +85C</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-sm-6 small lead text-uppercase">Rated Lifetime:</p>
+                                        <p class="col-sm-6 small">2500hours (6-10 years)</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                    </div>     
+                </div>
+            </div>
+        </div>                     
+
+        <div class="section"><div class="container"><hr></div></div>
+        
+        <div class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-10 col-xs-offset-1">
+                        <p class="centered large">“Just got these to replace the DS ballasts for my 2013 Ford Fusion which has a finnicky system to begin with. I'm also using the relay harness with an error eliminator on the OEM headlight connector side of the harness (same set-up as my 2010 Fusion Sport) and so far they are working well without having to turn my lights on/off several times to get them to work. Customer service throughout all of this trial and error has been quite exceptional!!! Thanks TRS!!!”</p>
+                        <h6 class="centered text-graylight">- Martin 12.23.2014</h6>
                     </div>
                 </div>
-        </div>
-        
-
-        
+            </div>
+        </div>                
 
 
     <!-- End Primary Page Layout
@@ -363,6 +464,31 @@
        $(window).bind('resize', iosVhHeightBug);
     }  
     </script> 
+
+    <!-- PRODUCT PAGES: For performance reasons, the Tooltip and Popover data-apis are opt-in, meaning you must initialize them yourself. -->
+    <script type="text/javascript">
+        $('.btn').popover('hide');
+        $('.btn').tooltip('hide');
+    </script>   
+    
+    <!-- PRODUCT PAGES: Carousel -->
+    <script>
+        $('#morimotoCarousel').carousel({
+            interval: 10000
+        });
+    </script>
+
+    <!-- PRODUCT PAGES: Added to style the Spinner for Numeric Inputs -->
+    <script type="text/javascript">
+        (function ($) {
+          $('.spinner .btn:first-of-type').on('click', function() {
+            $('.spinner input').val( parseInt($('.spinner input').val(), 10) + 1);
+          });
+          $('.spinner .btn:last-of-type').on('click', function() {
+            $('.spinner input').val( parseInt($('.spinner input').val(), 10) - 1);
+          });
+        })(jQuery);
+    </script>
     
     
     

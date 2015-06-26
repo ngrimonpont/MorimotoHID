@@ -311,7 +311,7 @@
                                             <h2>D2S: XB35 HID Ballasts</h2>
                                             <p class="small">With distribution exceeding 150,000 units over the last four years; more enthusiasts chose Morimoto over any other aftermarket ballast. Easily filling the shoes of the 3Five units that they replace, the brand new XB35 ballasts excel in every way.</br></br>
                                             Like all modern OEM D1 and D2 ballasts: the XB has modular igniters far closer to the HID bulb. The lack of high voltage transmitted through wiring drastically reduces EMI/RFI (radio interference). Total system reliability is also improved by shielding the main circuit board from the static produced by these high voltage bursts on start up.</p>
-                                            <button type="button" class="btn btn-primary" href="#">Learn More</button>
+                                            <div type="button" class="btn btn-primary" href="#">Learn More</div>
                                         </div>
                                     </div>    
                                 </a>

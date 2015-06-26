@@ -86,26 +86,28 @@
 	      			<a class="right carousel-control" href="#morimotoCarousel" role="button" data-slide="next"><span class="btn btn-lg btn-empty icon icon-arrowR939598 icon-next"></span></a> 
 	      			
                     <!-- Indicators -->
-                    <ol class="carousel-indicators visible-lg visible-md">
-                        <li class="col-md-1 active" data-slide-to="0" data-target="#morimotoCarousel">
-                          	<img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
-                        </li>
-                        <li class="col-md-1" data-slide-to="1" data-target="#morimotoCarousel">
-                          	<img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
-                        </li>
-                        <li class="col-md-1" data-slide-to="2" data-target="#morimotoCarousel">
-                          	<img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
-                        </li>  
-                        <li class="col-md-1" data-slide-to="3" data-target="#morimotoCarousel">
-                          	<img src="img/temp--Morimoto XB35 AMP Ballast 4.jpg" class="img-responsive" alt="" border="none">
-                        </li>  
-                        <li class="col-md-1" data-slide-to="4" data-target="#morimotoCarousel">
-                          	<img src="img/temp--Morimoto XB35 AMP Ballast 5.jpg" class="img-responsive" alt="" border="none">
-                        </li>
-                        <li class="col-md-1" data-slide-to="5" data-target="#morimotoCarousel">
-                          	<img src="img/temp--Morimoto XB35 AMP Ballast 6.jpg" class="img-responsive" alt="" border="none">
-                        </li>               
-                    </ol>                 
+                    <div class="container">
+		                    <ol class="carousel-indicators col-md-12 visible-lg visible-md">
+		                        <li class="col-md-1 active" data-slide-to="0" data-target="#morimotoCarousel">
+		                          	<img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+		                        </li>
+		                        <li class="col-md-1" data-slide-to="1" data-target="#morimotoCarousel">
+		                          	<img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+		                        </li>
+		                        <li class="col-md-1" data-slide-to="2" data-target="#morimotoCarousel">
+		                          	<img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
+		                        </li>  
+		                        <li class="col-md-1" data-slide-to="3" data-target="#morimotoCarousel">
+		                          	<img src="img/temp--Morimoto XB35 AMP Ballast 4.jpg" class="img-responsive" alt="" border="none">
+		                        </li>  
+		                        <li class="col-md-1" data-slide-to="4" data-target="#morimotoCarousel">
+		                          	<img src="img/temp--Morimoto XB35 AMP Ballast 5.jpg" class="img-responsive" alt="" border="none">
+		                        </li>
+		                        <li class="col-md-1" data-slide-to="5" data-target="#morimotoCarousel">
+		                          	<img src="img/temp--Morimoto XB35 AMP Ballast 6.jpg" class="img-responsive" alt="" border="none">
+		                        </li>    
+		                    </ol> 
+		            </div>                        
                 </div>
 
         </div>
@@ -124,25 +126,25 @@
 				  		<h2 id="colors">Colors</h2>
 					</div>
 
-					<h4 class="text-primary">Primary: Gold #e2c675 <span class="text-gold hover small">(Hover #c6a571)</span></h4>
+					<h4 class="text-primary">Primary: Gold <span class="text-lowercase">#e2c675 <span class="text-gold hover small">(Hover #c6a571)</span></span></h4>
 					<div class="bs-component">
 				  		<div class="progress">
 							<div class="progress-bar bg-primary" style="width: 100%;"></div>
 				  		</div>
 					</div>
-					<h4 class="text-secondary">Secondary: Dark Gold #c6a571 <span class="text-golddark hover small">(#e2c675)</span></h4>
+					<h4 class="text-secondary">Secondary: Dark Gold <span class="text-lowercase">#c6a571 <span class="text-golddark hover small">(#e2c675)</span></span></h4>
 					<div class="bs-component">
 				  		<div class="progress">
 							<div class="progress-bar bg-secondary" style="width: 66%;"></div>
 				  		</div>
 					</div>
-					<h4 class="text-tertiary">Tertiary: Copper #ff6d00 <span class="text-copper hover small">(#905444)</span></h4>
+					<h4 class="text-tertiary">Tertiary: Copper <span class="text-lowercase">#ff6d00 <span class="text-copper hover small">(#905444)</span></span></h4>
 					<div class="bs-component">
 				  		<div class="progress">
 							<div class="progress-bar bg-tertiary" style="width: 33%;"></div>
 				  		</div>
 					</div>
-					<h4 class="text-gray">Structural: Gray #423f3f <span class="text-gray hover small">(#363232)</span> // <span class="text-graylight">GrayLight #939598</span> // <span class="text-graydark">GrayDark #363232</span></h4>
+					<h4 class="text-gray">Structural: Gray <span class="text-lowercase">#423f3f <span class="text-gray hover small">(#363232)</span> // <span class="text-graylight">GrayLight #939598</span> // <span class="text-graydark">GrayDark #363232</span></span></h4>
 					<div class="bs-component">
 				  		<div class="progress">
 							<div class="progress-bar bg-gray" style="width: 34%"></div>
@@ -222,20 +224,20 @@
 			  	<div class="col-lg-12">
 					<!-- <h4>Sizes</h4>
 					<div class="bs-component" style="margin-bottom: 10px;">  
-					  	<a href="#"><button type="button" class="btn btn-large btn-lg">Large button</button></a>
-					  	<a href="#"><button type="button" class="btn btn-primary">Primary button</button></a>
-					 	<a href="#"><button type="button" class="btn btn-large btn-sm">Small button</button></a>
+					  	<a href="#"><div type="button" class="btn btn-large btn-lg">Large button</div></a>
+					  	<a href="#"><div type="button" class="btn btn-primary">Primary button</div></a>
+					 	<a href="#"><div type="button" class="btn btn-large btn-sm">Small button</div></a>
 					</div> -->
 					<!-- <div class="bs-component" style="margin-bottom: 10px;">
-				  		<a href="#"><button type="button" class="btn btn-large btn-lg btn-block">Block level button</button></a>
+				  		<a href="#"><div type="button" class="btn btn-large btn-lg btn-block">Block level button</div></a>
 					</div> -->
 					<h4>Types</h4>
 					<div class="bs-component" style="margin-bottom: 10px;">
 						<div class="col-lg-4">
 							<a type="button" class="btn btn-primary" href="#" style="margin-bottom: 10px;">Primary button</a>
 						  	<a class="btn-group" href="#">
-						  		<button type="button" class="btn btn-primary-icon"><span class="icon icon-download icon-withText"></span></button>
-						  		<button type="button" class="btn btn-primary">Primary with Icon</button>
+						  		<div type="button" class="btn btn-primary-icon"><span class="icon icon-download icon-withText"></span></div>
+						  		<div type="button" class="btn btn-primary">Primary with Icon</div>
 						  	</a>
 						  	<a type="button" class="btn btn-primary btn-sm" href="#" style="margin-top: 20px;">Primary Small button</a>
 						</div>	
@@ -247,8 +249,8 @@
 							<div class="input-group spinner">
 							    <input type="text" class="form-control input-lg" value="1">
 							    <div class="input-group-btn-vertical">
-							      	<button class="btn btn-large" type="button">+</button>
-							      	<button class="btn btn-large" type="button">–</button>
+							      	<div class="btn btn-large" type="button">+</div>
+							      	<div class="btn btn-large" type="button">–</div>
 							    </div>
 							    <div class="input-group-btn">
 							    	<a type="button" class="btn btn-large" href="#">Add <span class="hidden-xs">to Cart</span></a>
@@ -260,19 +262,22 @@
 					  		<a type="button" class="btn btn-empty icon icon-arrowR939598" href="#" style="margin-right: 10px;"></a>
 					  		<a type="button" class="btn btn-lg btn-empty icon icon-arrowR939598" href="#"></a>
 					  	</div>	
+					  	<div class="col-lg-1"> 	
+					  		<a type="button" class="btn btn-lg btn-empty-outline" href="#"><span class="icon icon-arrowR939598"></span></a>
+					  	</div>	
 					</div> 
 				</div>	
 				<!-- <div class="col-lg-6">	
 					<h4>Styles</h4>
 					<div class="bs-component" style="margin-bottom: 5px;">
-					  	<a href="#"><button type="button" class="btn bg-blue btn-lg"><span class="icon icon-cart icon-withText"></span>Add to Cart</button></a>
-					  	<a href="#"><button type="button" class="btn bg-orange">Shop Now</button></a>
-					  	<a href="#"><button type="button" class="btn bg-green">Live Chat</button></a>
-					  	<a href="#"><button type="button" class="btn btn-outline btn-outline-orange btn-lg icon icon-arrow-drop"></button></a>
-					  	<a href="#"><button type="button" class="btn btn-empty btn-lg"><span class="icon icon-message"></span><span class="badge">3</span></button></a>
+					  	<a href="#"><div type="button" class="btn bg-blue btn-lg"><span class="icon icon-cart icon-withText"></span>Add to Cart</div></a>
+					  	<a href="#"><div type="button" class="btn bg-orange">Shop Now</div></a>
+					  	<a href="#"><div type="button" class="btn bg-green">Live Chat</div></a>
+					  	<a href="#"><div type="button" class="btn btn-outline btn-outline-orange btn-lg icon icon-arrow-drop"></div></a>
+					  	<a href="#"><div type="button" class="btn btn-empty btn-lg"><span class="icon icon-message"></span><span class="badge">3</span></div></a>
 					</div> 
 					<div class="bs-component" style="margin-bottom: 10px;">
-					  	<a href="#"><button type="button" class="btn bg-blue btn-lg disabled"><span class="icon icon-cart icon-withText"></span>Disabled</button></a>
+					  	<a href="#"><div type="button" class="btn bg-blue btn-lg disabled"><span class="icon icon-cart icon-withText"></span>Disabled</div></a>
 					</div> 
 			  	</div> -->
 			  	
@@ -424,10 +429,10 @@
 					<h2 id="pager">Pager</h2>
 					<div class="bs-component">
 				  		<ul class="pager">
-				  			<li class="previous disabled"><a href="#"><button type="button" class="btn btn-large btn-lg icon icon-chevron-left"></button></a></li>
-							<li><a href="#"><button type="button" class="btn btn-large btn-lg icon icon-chevron-left"></button></a></li>
-							<li><a href="#"><button type="button" class="btn btn-large btn-lg icon icon-chevron-right"></button></a></li>
-							<li class="next active"><a href="#"><button type="button" class="btn btn-large btn-lg icon icon-chevron-right"></button></a></li>
+				  			<li class="previous disabled"><a href="#"><div type="button" class="btn btn-large btn-lg icon icon-chevron-left"></div></a></li>
+							<li><a href="#"><div type="button" class="btn btn-large btn-lg icon icon-chevron-left"></div></a></li>
+							<li><a href="#"><div type="button" class="btn btn-large btn-lg icon icon-chevron-right"></div></a></li>
+							<li class="next active"><a href="#"><div type="button" class="btn btn-large btn-lg icon icon-chevron-right"></div></a></li>
 				  		</ul>
 					</div>
 			  	</div>
@@ -534,8 +539,8 @@
 						  	</div>	
 						</div>
 						<div class="col-md-6">  	
-						  	<div class="panelWrap">
-						  		<div class="panel panel-default panel-product">
+						  	<div class="panelWrap panel-product">
+						  		<div class="panel panel-default">
 									<div class="panel-heading">
 										<h5>Product Category</h5>
 										<h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
@@ -550,6 +555,7 @@
 			  	</div>
 			  	<div class="col-lg-12">
 					<div class="row">
+
 						<div class="col-md-2">
 							<div class="panelWrap">
 							  	<div class="panel">
@@ -677,11 +683,11 @@
 									  	    <div class="media-body">
 												<div class="bs-component">
 													<div class="btn-group">  	
-														<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
+														<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
 													</div>
 													<h5><span class="text-gray">6/23/2014</span></h5>
 												</div>
@@ -701,11 +707,11 @@
 									  	    <div class="media-body">
 												<div class="bs-component">
 													<div class="btn-group">  	
-														<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></button>
-													  	<button type="button" class="btn bg-gray btn-xs btn-rating"><span class="icon icon-star"></span></button>
+														<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating active"><span class="icon icon-star"></span></div>
+													  	<div type="button" class="btn bg-gray btn-xs btn-rating"><span class="icon icon-star"></span></div>
 													</div>
 													<h5><span class="text-gray">6/23/2014</span></h5>
 												</div>
@@ -746,7 +752,7 @@
 						            <h2>XB35 AMP Ballast</h2>
 						            <p class="small">On the success of other automotive lighting products from Morimoto: we're proud to finally introduce the line of XB LED Marker and Signal Bulbs. Despite the rapid pace of changing trends and the fact that they took two years to develop, these bulbs are still as modern as it gets.</br></br>
 									Beautiful, bright light. Nearly infinite life span. Great for signal, marker, brake, and tail lights. The XB LED bulbs are an instant upgrade in the looks and performance for the lighting on your car from bumper to bumper.</p>
-						            <button type="button" class="btn btn-primary" href="#">Learn More</button>
+						            <div type="button" class="btn btn-primary" href="#">Learn More</div>
 						        </div>
 						    </div>    
 	                	</a>
@@ -966,8 +972,8 @@
 									  	</div>
 									  	<div class="form-group">
 											<div class="col-lg-10 col-lg-offset-2">
-										  		<button class="btn btn-primary btn-sm">Cancel</button>
-										  		<button type="submit" class="btn btn-primary">Submit</button>
+										  		<div class="btn btn-primary btn-sm">Cancel</div>
+										  		<div type="submit" class="btn btn-primary">Submit</div>
 											</div>
 									  	</div>
 									</fieldset>
@@ -1020,7 +1026,7 @@
 											<span class="input-group-addon">$</span>
 											<input type="text" class="form-control">
 											<span class="input-group-btn">
-										  		<button class="btn btn-large" type="button">Button</button>
+										  		<div class="btn btn-large" type="button">Button</div>
 											</span>
 									  	</div>
 									</div> -->
@@ -1057,13 +1063,13 @@
 			  	</div>
 			  	<div class="col-lg-12" style="margin-bottom: 10px;">
 			  		<div class="alert alert-dismissable alert-success">
-						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<div type="button" class="close" data-dismiss="alert">&times;</div>
 						<p class="small"><strong>Well done!</strong> You successfully read <a href="#" class="alert-link">this important alert message</a>.</h5>
 			  		</div>
 			  	</div>
 			  	<div class="col-lg-12" style="margin-bottom: 10px;">
 			  		<div class="alert alert-dismissable alert-info">
-						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<div type="button" class="close" data-dismiss="alert">&times;</div>
 						<p class="small"><strong>Heads up!</strong> This <a href="#" class="alert-link">alert needs your attention</a>, but it's not super important.</h5>
 			  		</div>
 			  	</div>
@@ -1188,14 +1194,14 @@
 					<h4>Modals</h4>
 					<div class="bs-component">
 						<div class="bs-example" style="padding-bottom: 24px;">
-						    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Launch demo modal</button>
+						    <div class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">Launch demo modal</div>
 						</div>
 
 						<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 						    <div class="modal-dialog">
 						      	<div class="modal-content">
 						        	<div class="modal-header">
-						          		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+						          		<div type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</div>
 						          		<h4 class="modal-title" id="myModalLabel">Modal Heading</h4>
 						        	</div>
 						        	<div class="modal-body">
@@ -1220,8 +1226,8 @@
 						          		<p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
 						        	</div>
 						        	<div class="modal-footer">
-						          		<button type="button" class="btn btn-large" data-dismiss="modal">Close</button>
-						          		<button type="button" class="btn btn-primary">Save changes</button>
+						          		<div type="button" class="btn btn-large" data-dismiss="modal">Close</div>
+						          		<div type="button" class="btn btn-primary">Save changes</div>
 						        	</div>
 						      	</div><!-- /.modal-content -->
 						    </div><!-- /.modal-dialog -->
@@ -1234,18 +1240,18 @@
 					<a name="popovers"></a> 
 					<h4>Popovers</h4>
 					<div class="bs-component">
-				  		<button type="button" class="btn btn-large" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">Left</button>
-				  		<button type="button" class="btn btn-large" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">Top</button>
-				  		<button type="button" class="btn btn-large" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">Bottom</button>
-				  		<button type="button" class="btn btn-large" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">Right</button>
+					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></div>
+					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></div>
+					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></div>
+					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowL939598"></span></div>
 					</div>
 					<!-- <a name="tooltips"></a> 
 					<h4>Tooltips</h4>
 					<div class="bs-component">
-				  		<button type="button" class="btn btn-large" data-toggle="tooltip" data-placement="left" title="" data-original-title="Tooltip on left">Left</button>
-				  		<button type="button" class="btn btn-large" data-toggle="tooltip" data-placement="top" title="" data-original-title="Tooltip on top">Top</button>
-				  		<button type="button" class="btn btn-large" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Tooltip on bottom">Bottom</button>
-				  		<button type="button" class="btn btn-large" data-toggle="tooltip" data-placement="right" title="" data-original-title="Tooltip on right">Right</button>
+				  		<div type="button" class="btn btn-large" data-toggle="tooltip" data-placement="left" title="" data-original-title="Tooltip on left">Left</div>
+				  		<div type="button" class="btn btn-large" data-toggle="tooltip" data-placement="top" title="" data-original-title="Tooltip on top">Top</div>
+				  		<div type="button" class="btn btn-large" data-toggle="tooltip" data-placement="bottom" title="" data-original-title="Tooltip on bottom">Bottom</div>
+				  		<div type="button" class="btn btn-large" data-toggle="tooltip" data-placement="right" title="" data-original-title="Tooltip on right">Right</div>
 					</div> -->
 			  	</div>
 			</div>
@@ -1267,31 +1273,6 @@
 	================================================== -->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>	
 	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-	
-	<!-- PRODUCT PAGES: For performance reasons, the Tooltip and Popover data-apis are opt-in, meaning you must initialize them yourself. -->
-	<script type="text/javascript">
-		$('.btn').popover('hide');
-		$('.btn').tooltip('hide');
-	</script>	
-	
-	<!-- PRODUCT PAGES: Carousel -->
-	<script>
-  		$('#morimotoCarousel').carousel({
-  		    interval: 10000
-  		});
-	</script>
-	<script>
-		$(document).ready(function() {
-			$('#mySlider').carousel({
-			interval: 10000;
-			})
-		    
-		    $('#mySlider').on('slid.bs.carousel', function() {
-		    	//alert("slid");
-			});
-		});
-	</script>	
-
 
     <!-- ALL: TOGGLE SCRIPT for Nav -->
     <script type='text/javascript'>
@@ -1309,8 +1290,35 @@
     		$(".header-under .dropdown-menu").click(function(e) {
     	    e.stopPropagation(); 
     	});
-    </script>	
+    </script>
 
+    <!-- ALL: iOS Viewport Fix -->
+	<script type="text/javascript">
+	var iOS = navigator.userAgent.match(/(iPod|iPhone|iPad)/);
+	if(iOS){
+
+	   function iosVhHeightBug() {
+	      var height = $(window).height();
+	      $(".dropdown-menu").css('min-height', height);
+	   }
+
+	   iosVhHeightBug();
+	   $(window).bind('resize', iosVhHeightBug);
+	}  
+	</script>	
+
+    <!-- PRODUCT PAGES: For performance reasons, the Tooltip and Popover data-apis are opt-in, meaning you must initialize them yourself. -->
+	<script type="text/javascript">
+		$('.btn').popover('hide');
+		$('.btn').tooltip('hide');
+	</script>	
+	
+	<!-- PRODUCT PAGES: Carousel -->
+	<script>
+  		$('#morimotoCarousel').carousel({
+  		    interval: 10000
+  		});
+	</script>
 
 	<!-- PRODUCT PAGES: Added to style the Spinner for Numeric Inputs -->
 	<script type="text/javascript">
@@ -1325,21 +1333,6 @@
 	</script>
 
 
-	<!-- ALL: iOS Viewport Fix -->
-	<script type="text/javascript">
-	var iOS = navigator.userAgent.match(/(iPod|iPhone|iPad)/);
-	if(iOS){
-
-	   function iosVhHeightBug() {
-	      var height = $(window).height();
-	      $(".dropdown-menu").css('min-height', height);
-	   }
-
-	   iosVhHeightBug();
-	   $(window).bind('resize', iosVhHeightBug);
-	}  
-	</script>
-	
 
   
 <!-- End Document

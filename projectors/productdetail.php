@@ -171,7 +171,7 @@
 
                                             <h2 class="text-right"><span class="text-gold">$439.99</span> <span class="h4 text-graylight text-weight400bank">MSRP</span></h2>
 
-                                            <div class="form-group col-xs-8 col-sm-7 col-md-10 col-lg-9 pull-right">
+                                            <div class="form-group col-xs-9 col-sm-7 col-md-10 col-lg-9 pull-right">
                                                 <div class="row">
                                                 <div class="input-group spinner">
                                                     <input type="text" class="form-control input-lg" value="1">

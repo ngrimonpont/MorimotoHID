@@ -442,25 +442,28 @@
 
 		<!-- Containers
 		================================================== -->
-		
+	
 		<a name="containers"></a> 
 		<div class="bs-docs-section">
-			<!-- <div class="row">
+			<div class="row">
 			  	<div class="col-lg-12">
 					<div class="page-header">
 				  		<h2 id="container">Containers</h2>
 					</div>
-					<div class="bs-component">
-					  	<a name="jumbotron"></a> 
-					  	<h4>Hero Feature</h4>
-					  	<div class="jumbotron centered">
-							<h1>Raise the Bar. Chase the Night.</h1>
-							<h4>This is a simple hero unit.</h4>
-							<a type="button" class="btn btn-large" href="#" style="margin-bottom: 10px;">Call to Action</a>
-					  	</div>
-					</div>
-			 	</div>
-			</div> -->
+				</div>
+			</div>
+		</div>
+	</div>		
+	
+	<div class="container-fluid">
+		<div class="row">			
+			<div class="jumbotron">
+				<img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">		
+		 	</div>
+	 	</div>
+	</div>
+
+	<div class="container">
 
 			<!-- <div class="row">
 			  	<div class="col-lg-12">

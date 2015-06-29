@@ -240,7 +240,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Something something something</h5>
+                        <h5>Facts &amp; Figures</h5>
                         <h2>Description</h2>
                     </div>  
                     <div class="col-xs-12 col-md-6">

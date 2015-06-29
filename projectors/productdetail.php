@@ -112,7 +112,7 @@
         <div class="section"> 
             <div class="container">   
                 <div class="row">
-                    <div class="col-sm-6 pull-right">      
+                    <div class="col-xs-12 col-md-6 pull-right">      
                         <div class="panelWrap panel-product">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
@@ -171,7 +171,7 @@
 
                                             <h2 class="text-right"><span class="text-gold">$439.99</span> <span class="h4 text-graylight text-weight400bank">MSRP</span></h2>
 
-                                            <div class="form-group col-sm-9 pull-right">
+                                            <div class="form-group col-xs-8 col-sm-7 col-md-10 col-lg-9 pull-right">
                                                 <div class="row">
                                                 <div class="input-group spinner">
                                                     <input type="text" class="form-control input-lg" value="1">
@@ -193,25 +193,40 @@
                         </div>
                     </div>  
 
-                    <div class="col-sm-6"> 
+                    <div class="col-xs-12 col-md-6"> 
                         <hr class="aligncenter">
                         <a class="btn-group" href="#">
                             <button type="button" class="btn btn-primary-icon"><span class="icon icon-download icon-withText"></span></button>
-                            <button type="button" class="btn btn-primary">Installation Guide</button>
+                            <button type="button" class="btn btn-primary">Install<span class="hidden-xs">ation</span> Guide</button>
                         </a>
                         <a class="btn-group" href="#">
                             <button type="button" class="btn btn-primary-icon"><span class="icon icon-map icon-withText"></span></button>
                             <button type="button" class="btn btn-primary">Locate a Dealer</button>
                         </a>
                         <hr class="aligncenter">
-                        <ul class="btn-group"> 
-                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
-                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
-                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
-                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
-                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
-                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></li>
-                        </ul>    
+                    </div>
+                    <div class="col-xs-12 icon-features"> 
+                    <div class="row">    
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></li>
+                        </div>  
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></li>
+                        </div>  
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></li>
+                        </div>  
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></li>
+                        </div>  
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></li>
+                        </div>  
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <li type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></li>
+                        </div> 
+                        </div>   
+ 
                         <p class="nopadding"><small>*Click for details</small></p>
                     </div>    
 
@@ -261,10 +276,10 @@
                     <div class="col-xs-12 col-md-4">
                         <img src="../img/productDiagram-ballast-55w.svg" class="img-responsive" alt="" border="none">
                     </div>
-                    <div class="col-xs-12 col-md-4">
+                    <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="../img/productDiagram-ballast-55w2.svg" class="img-responsive" alt="" border="none">
                     </div>
-                    <div class="col-xs-12 col-md-4">
+                    <div class="col-xs-12 col-sm-6 col-md-4">
                         <img src="../img/productDiagram-ballast-55w3.svg" class="img-responsive" alt="" border="none">
                     </div>
                 </div>    

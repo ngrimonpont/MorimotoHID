@@ -9,7 +9,7 @@
 	<!-- Basic Page Needs
     ================================================== -->
 	<meta charset="utf-8">
-	<title>MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
+	<title>Applications • MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="" />
 	<meta name="author" content="SHIMITS Design/Development">
@@ -53,7 +53,7 @@
         <div class="container-fluid">
             <div class="row">           
                 <div class="jumbotron first">
-                    <img src="../img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">       
+                    <img src="../img/jumbo-oem.jpg" class="img-responsive" alt="" border="none">  
                 </div>
             </div>
 
@@ -61,8 +61,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="lead col-xs-12">
-                            <h5>Lorem Ipsum</h5>
-                            <h2>Application: <span class="text-weight400bank">OEM / Replacement</span></h2>
+                            <h5>Original Equipment Parts</h5>
+                            <h2>OEM / Replacement</h2>
 
                             <p><span class="lead">• Original Equipment Supply</br> • OE Quality Replacements</span></p>
                             <p>We have a full line of pre-existing discharge lamps and components that are well qualified for original-equipment replacement parts. In addition, Morimoto builds many of the world’s most famous lighting brands.  We welcome all original equipment inquiries and can organize production according to your all-original design. Whether your product is only partially rendered or has a full set of blueprints; tap into Morimoto’s wide range of resources to complete production. We guarantee secrecy and exclusivity on all OEM projects to ensure the product never ends up in the wrong hands. </p>
@@ -84,8 +84,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="lead col-xs-12">
-                            <h5>Lorem Ipsum</h5>
-                            <h2>Application: <span class="text-weight400bank">High Performance Street</span></h2>
+                            <h5>Factory Upgrades</h5>
+                            <h2>High Performance Street</h2>
 
                             <p><span class="lead">• Sport Compacts</br> • Sport Utility Vehicles</br> • Family Vehicles</br> • Motorcycles</br> • Hot Rods</span></p>
                             <p>When you’re driving something truly special, others will see you coming during the day, but don’t make the mistake of cruising by unnoticed at night. Morimoto’s wide variety of lighting products can be used vehicle wide to enhance the aesthetic appearance and real performance from headlamps, fog lamps, daytime running lights, taillights, and interior lighting. Our industry leading HID/xenon systems and universal projector retrofits are unsurpassed in terms of quality, reliability, and light output. </p>
@@ -107,8 +107,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="lead col-xs-12">
-                            <h5>Lorem Ipsum</h5>
-                            <h2>Application: <span class="text-weight400bank">Off-Road / 4x4</span></h2>
+                            <h5>Rugged Performance</h5>
+                            <h2>Off-Road / 4x4</h2>
 
                             <p><span class="lead">• Jeeps</br> • Pickup Trucks</br> • 4 Wheelers</span></p>
                             <p>Whether you’re riding the rocks or managing your way in the mud; Morimoto produces the most durable, highest performance lighting systems on the market. Our off-road specific design team focuses on features such as fully sealed IP68 certified housings, weatherproof wiring, and durable polycarbonate lenses. We know that when the dirt is rinsed dry, your lights will look and function as like new.</p>
@@ -130,8 +130,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="lead col-xs-12">
-                            <h5>Lorem Ipsum</h5>
-                            <h2>Application: <span class="text-weight400bank">Military / Public Safety</span></h2>
+                            <h5>Safety Enhancements </h5>
+                            <h2>Military / Public Safety</h2>
 
                             <p><span class="lead">• Emergency Medical</br> • Fire Departments</br> • Law Enforcement</br> • Search and Rescue</span></p>
                             <p>Just because the sun goes down doesn’t mean our public servicemen and women aren’t on the job. Accidents, Emergencies, and important operations are often times more common when it’s dark out, and therefore the importance of vehicular lighting cannot be understated. Morimoto can meet the specific needs of any department in terms of light output, color, form, function, and efficiency. </p>
@@ -145,7 +145,7 @@
         <div class="container-fluid">
             <div class="row">           
                 <div class="jumbotron">
-                    <img src="../img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">       
+                    <img src="../img/jumbo-commercial.jpg" class="img-responsive" alt="" border="none">  
                 </div>
             </div>
         
@@ -153,8 +153,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="lead col-xs-12">
-                            <h5>Lorem Ipsum</h5>
-                            <h2>Application: <span class="text-weight400bank">Industrial / Commercial</span></h2>
+                            <h5>Improved Productivity </h5>
+                            <h2>Industrial / Commercial</h2>
 
                             <p><span class="lead">• Tractor Trailers</br> • Delivery Vehicles</br> • Buses</span></p>
                             <p>There is no bigger safety hazard for commercial drivers compared to fatigue. Studies show that poor visibility contributes to driver fatigue during cross-country hauls and nighttime delivery routes and is a major factor in dangerous accidents. When safety and productivity are your priority; Morimoto can provide a lighting solution for both existing and new industrial or commercial applications. </p>
@@ -168,7 +168,7 @@
         <div class="container-fluid">
             <div class="row">           
                 <div class="jumbotron">
-                    <img src="../img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">       
+                    <img src="../img/jumbo-powersports.jpg" class="img-responsive" alt="" border="none">   
                 </div>
             </div>
         
@@ -176,8 +176,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="lead col-xs-12">
-                            <h5>Lorem Ipsum</h5>
-                            <h2>Application: <span class="text-weight400bank">Power Sports</span></h2>
+                            <h5>Performance Unleashed</h5>
+                            <h2>Power Sports</h2>
 
                             <p><span class="lead">• ATVs</br> • UTVs</br> • Snowmobiles</br> • Dirt Bikes</br> • Race Cars</span></p>
                             <p>Thrashing the trails when the sun goes down requires safe, efficient and high performance lighting. Morimoto understands the equal importance of both seeing and being seen in the power sports industry. Our unique products and capabilities will enhance the light output and visual appeal of your ride.</p>

@@ -9,7 +9,7 @@
 	<!-- Basic Page Needs
     ================================================== -->
 	<meta charset="utf-8">
-	<title>MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
+	<title>Projectors • MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="" />
 	<meta name="author" content="SHIMITS Design/Development">

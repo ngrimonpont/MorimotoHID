@@ -294,63 +294,63 @@
         </div>
 
         <div class="section module-news">
-                <div class="container">
-                        <div class="row">
-                            <div class="lead col-xs-12">
-                                <h5>Never stop moving</h5>
-                                <h2 class="text-white">The Latest &amp; Greatest</h2>
-                            </div>  
-                            <div class="col-sm-12">
-                                <a class="thumbnailWrap" href="#">
-                                    <div class="thumbnail special">
-                                        <div class="thumbnail-image col-sm-6 pull-right">
-                                            <img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
-                                        </div>
-                                        <div class="caption col-sm-6">
-                                            <h5>Apr 24, 2015</h5>
-                                            <h2>D2S: XB35 HID Ballasts</h2>
-                                            <p class="small">With distribution exceeding 150,000 units over the last four years; more enthusiasts chose Morimoto over any other aftermarket ballast. Easily filling the shoes of the 3Five units that they replace, the brand new XB35 ballasts excel in every way.</br></br>
-                                            Like all modern OEM D1 and D2 ballasts: the XB has modular igniters far closer to the HID bulb. The lack of high voltage transmitted through wiring drastically reduces EMI/RFI (radio interference). Total system reliability is also improved by shielding the main circuit board from the static produced by these high voltage bursts on start up.</p>
-                                            <div type="button" class="btn btn-primary">Learn More</div>
-                                        </div>
-                                    </div>    
-                                </a>
-                            </div>
-                            <div class="col-sm-6">
-                                <a class="thumbnailWrap">
-                                    <div class="thumbnail">
-                                        <div class="thumbnail-image">
-                                            <img src="img/news/news-led-20150623.jpg" class="img-responsive" alt="" border="none">
-                                        </div>
-                                        <div class="caption col-xs-12">
-                                            <h5>Apr 24, 2015</h5>
-                                            <h3>The Future is bright</h3>
-                                            <p class="small">And it’s powered by an LED. Morimoto is exploring and refining optical systems based on solid-state lighting.</p>
-                                            <hr>
-                                            <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
-                                        </div>
-                                    </div>    
-                                </a>
-                            </div>
-                            <div class="col-sm-6">
-                                <a class="thumbnailWrap">
-                                    <div class="thumbnail">
-                                        <div class="thumbnail-image">
-                                            <img src="img/news/news-expandnetwork-20150623.jpg" class="img-responsive" alt="" border="none">
-                                        </div>
-                                        <div class="caption col-xs-12">
-                                            <h5>Apr 24, 2015</h5>
-                                            <h3>Morimoto Expands Dealer Network</h3>
-                                            <p class="small">By Q2 2015, in cooperation with our dealers: International demand distribution has increased by over 50% since 2014.</p>
-                                            <hr>
-                                            <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
-                                        </div>
-                                    </div>    
-                                </a>
-                            </div>  
+            <div class="container">
+                    <div class="row">
+                        <div class="lead col-xs-12">
+                            <h5>Never stop moving</h5>
+                            <h2 class="text-white">The Latest &amp; Greatest</h2>
+                        </div>  
+                        <div class="col-sm-12">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail special">
+                                    <div class="thumbnail-image col-sm-6 pull-right">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-sm-6">
+                                        <h5>Apr 24, 2015</h5>
+                                        <h2>D2S: XB35 HID Ballasts</h2>
+                                        <p class="small">With distribution exceeding 150,000 units over the last four years; more enthusiasts chose Morimoto over any other aftermarket ballast. Easily filling the shoes of the 3Five units that they replace, the brand new XB35 ballasts excel in every way.</br></br>
+                                        Like all modern OEM D1 and D2 ballasts: the XB has modular igniters far closer to the HID bulb. The lack of high voltage transmitted through wiring drastically reduces EMI/RFI (radio interference). Total system reliability is also improved by shielding the main circuit board from the static produced by these high voltage bursts on start up.</p>
+                                        <div type="button" class="btn btn-primary">Learn More</div>
+                                    </div>
+                                </div>    
+                            </a>
                         </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/news/news-led-20150623.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Apr 24, 2015</h5>
+                                        <h3>The Future is bright</h3>
+                                        <p class="small">And it’s powered by an LED. Morimoto is exploring and refining optical systems based on solid-state lighting.</p>
+                                        <hr>
+                                        <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/news/news-expandnetwork-20150623.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Apr 24, 2015</h5>
+                                        <h3>Morimoto Expands Dealer Network</h3>
+                                        <p class="small">By Q2 2015, in cooperation with our dealers: International demand distribution has increased by over 50% since 2014.</p>
+                                        <hr>
+                                        <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>  
                     </div>
                 </div>
+            </div>
         </div>
         
 

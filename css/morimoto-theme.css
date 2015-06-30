@@ -62,7 +62,6 @@ body.utility { background: #eee; background-image: url(../img/bg-lightstone.jpg)
 hr { border-top: 1px solid #ccc; width: 100%; }
 .clear { clear: both; display: block; font-size: 0; height: 0; line-height: 0; width: 100%; }
 
-.img-responsive { width: 100%; }
 
 /* Typography & Images
 ======================================================================================================================================================
@@ -126,10 +125,13 @@ p { font-family: 'PlutoSansRegular', sans-serif; font-weight: 400; font-size: 12
 
 .lead { margin-bottom: 0; font-family: 'PlutoSansMedium', sans-serif; line-height: inherit; font-size: 12px; color: #423f3f; }
 .section .lead h2 { margin-bottom: 10px; }
+.large { font-size: 110%; margin-bottom: 10px; }
 @media (min-width:768px) {
   .lead { font-size: inherit; }
   .section .lead h2 { margin-bottom: 15px; }
-  .large { font-size: 125%; margin-bottom: 10px; }
+}
+@media (min-width:992px) {
+	.large { font-size: 125%; }
 }
 small, .small { font-size: 85%; }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, 
@@ -157,6 +159,8 @@ a:hover, a:focus { text-decoration: none; color: #e2c675; }
 .nopadding { padding: 0px !important; margin: 0px; }
 
 
+.img-responsive { width: 100%; }
+.img-special { margin-top: 10px; }
 
 
 /* Forms
@@ -780,8 +784,8 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 .intro .btn-empty.btn-lg.icon { height: 70px; position: absolute; bottom: 0; left: 50%; margin-left: -22px; }
 
 .productcategory .intro { background-position: top right; background-repeat: no-repeat; -webkit-background-size: auto 100%; -moz-background-size: auto 100%; -o-background-size: auto 100%; background-size: auto 100%; }
-.productdetail .description .col-md-6 { margin-bottom: 20px; }
-.productdetail .description .col-md-6 ~ .col-md-6 { margin-bottom: 0px; }
+.description .col-md-6 { margin-bottom: 20px; }
+.description .col-md-6 ~ .col-md-6 { margin-bottom: 0px; }
 
 .section { width: 100%; overflow: hidden; padding-top: 40px; padding-bottom: 40px; }
 .utility .section { overflow: visible; padding-top: 20px; padding-bottom: 20px; }
@@ -807,8 +811,8 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 	.intro .featureHeadline { margin-top: 160px; }
 	.module-quickstartguide .form-horizontal { margin-top: 18px; }
 
-	.module-callout .container-fluid { width: 110%; position: relative; left: -5%; -ms-transform: rotate(-3deg); -webkit-transform: rotate(-3deg); transform: rotate(-3deg); }
-	.module-callout .container .row { padding-top: 60px; padding-bottom: 60px; -ms-transform: rotate(3deg); -webkit-transform: rotate(3deg); transform: rotate(3deg); }
+	.home .module-callout .container-fluid { width: 110%; position: relative; left: -5%; -ms-transform: rotate(-3deg); -webkit-transform: rotate(-3deg); transform: rotate(-3deg); }
+	.home .module-callout .container .row { padding-top: 60px; padding-bottom: 60px; -ms-transform: rotate(3deg); -webkit-transform: rotate(3deg); transform: rotate(3deg); }
 	.module-callout p { font-size: 15px; padding-left: 10px; padding-right: 10px; }
 }
 @media (min-width:992px) {

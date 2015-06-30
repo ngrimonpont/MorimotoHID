@@ -166,6 +166,190 @@
                                 </div>    
                             </a>
                         </div> 
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="/client/TRS/MorimotoHID/projectors/productdetail.php">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                    <span class="label label-default"><img class="img-responsive" src="img/label-new.svg" alt="" border="0"/></span>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>AMP: XB35</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>AMP: XB35</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>AMP: XB35</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                    <span class="label label-default"><img class="img-responsive" src="img/label-new.svg" alt="" border="0"/></span>
+                                </div>    
+                            </a>
+                        </div> 
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="/client/TRS/MorimotoHID/projectors/productdetail.php">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                    <span class="label label-default"><img class="img-responsive" src="img/label-new.svg" alt="" border="0"/></span>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>AMP: XB35</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>AMP: XB35</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 1.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>MOPAR SPEC: 13-14 DODGE RAM LOW BEAM HARNESS</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                </div>    
+                            </a>
+                        </div>
+                        <div class="col-sm-6">
+                            <a class="thumbnailWrap" href="#">
+                                <div class="thumbnail">
+                                    <div class="thumbnail-image">
+                                        <img src="img/temp--Morimoto XB35 AMP Ballast 2.jpg" class="img-responsive" alt="" border="none">
+                                    </div>
+                                    <div class="caption col-xs-12">
+                                        <h5>Projectors</h5>
+                                        <h3>AMP: XB35</h3>
+                                        <hr>
+                                        <h4 class="text-right"><span class="text-goldlight">$439.99</span> <span class="h5">MSRP</span></h4>
+                                    </div>
+                                    <span class="label label-default"><img class="img-responsive" src="img/label-new.svg" alt="" border="0"/></span>
+                                </div>    
+                            </a>
+                        </div> 
                     </div>
                 </div>
                 </div>

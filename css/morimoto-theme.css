@@ -789,7 +789,7 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 
 .section { width: 100%; overflow: hidden; padding-top: 40px; padding-bottom: 40px; }
 .utility .section { overflow: visible; padding-top: 20px; padding-bottom: 20px; }
-.utility .section ~ .section { padding-top: 0; }
+.utility .section.description ~ .section.description.secondary { padding-top: 0; padding-bottom: 0; }
 .utility .section.description p { margin: 0; }
 .utility .section.description p ~ p { margin-top: 20px; }
 

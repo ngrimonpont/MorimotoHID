@@ -234,7 +234,7 @@
             </div>
         </div>
 
-        <div class="section"><div class="container"><hr></div></div>
+        <div class="container"><hr></div>
 
         <div class="section description">
             <div class="container">
@@ -268,7 +268,7 @@
             </div>
         </div>
 
-        <div class="section"><div class="container"><hr></div></div>
+        <div class="container"><hr></div>
 
         <div class="section">
             <div class="container">
@@ -286,7 +286,7 @@
             </div>
         </div>
 
-        <div class="section"><div class="container"><hr></div></div>
+        <div class="container"><hr></div>
 
         <div class="section">
             <div class="container">
@@ -418,7 +418,7 @@
             </div>
         </div>                     
 
-        <div class="section"><div class="container"><hr></div></div>
+        <div class="container"><hr></div>
         
         <div class="section">
             <div class="container">

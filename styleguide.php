@@ -232,6 +232,23 @@
 				  		<a href="#"><div type="button" class="btn btn-large btn-lg btn-block">Block level button</div></a>
 					</div> -->
 					<h4>Types</h4>
+						<div class="col-md-8 col-md-offset-2" style="margin-bottom: 40px;">
+							<div class="btn-group btn-group-justified" role="group" aria-label="...">
+							  	<div class="btn-group" role="group">
+							    	<div type="button" class="btn btn-link">About</div>
+							  	</div>
+							  	<div class="btn-group" role="group">
+							    	<div type="button" class="btn btn-link">Development</div>
+							  	</div>
+							  	<div class="btn-group" role="group">
+							    	<div type="button" class="btn btn-link">Capabilities</div>
+							  	</div>
+							  	<div class="btn-group" role="group">
+							    	<div type="button" class="btn btn-link">Sustainability</div>
+							  	</div>
+							</div>
+						</div>
+
 					<div class="bs-component" style="margin-bottom: 10px;">
 						<div class="col-lg-4">
 							<a type="button" class="btn btn-primary" href="#" style="margin-bottom: 10px;">Primary button</a>
@@ -262,9 +279,9 @@
 					  		<a type="button" class="btn btn-empty icon icon-arrowR939598" href="#" style="margin-right: 10px;"></a>
 					  		<a type="button" class="btn btn-lg btn-empty icon icon-arrowR939598" href="#"></a>
 					  	</div>	
-					  	<div class="col-lg-1"> 	
-					  		<a type="button" class="btn btn-lg btn-empty-outline" href="#"><span class="icon icon-arrowR939598"></span></a>
-					  	</div>	
+					  	<div class="col-xs-4 col-sm-2 col-md-1">  
+                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
+                        </div>  
 					</div> 
 				</div>	
 				<!-- <div class="col-lg-6">	
@@ -1240,14 +1257,22 @@
 					</div>	
 			  	</div>
 
-			  	<div class="col-lg-6">
+			  	<div class="col-lg-12">
 					<a name="popovers"></a> 
 					<h4>Popovers</h4>
 					<div class="bs-component">
-					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></div>
-					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></div>
-					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowR939598"></span></div>
-					  	<div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><span class="icon icon-arrowL939598"></span></div>
+					  	<div class="col-xs-4 col-sm-2 col-md-1">  
+                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
+                        </div> 
+					  	<div class="col-xs-4 col-sm-2 col-md-1">  
+                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
+                        </div> 
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="bottom" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
+                        </div> 
+                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
+                        </div> 
 					</div>
 					<!-- <a name="tooltips"></a> 
 					<h4>Tooltips</h4>

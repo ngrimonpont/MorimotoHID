@@ -56,7 +56,32 @@
                     <img src="../img/jumbo-about.jpg" class="img-responsive" alt="" border="none">  
                 </div>
             </div>
+            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="about"></a>
+            <div class="row page-links">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-12 col-lg-8 col-lg-offset-2">
+                            <div class="btn-group btn-group-justified" role="group">
+                                <div class="btn-group" role="group">
+                                    <a type="button" class="btn btn-link" href="#about">About</a>
+                                </div>
+                                <div class="btn-group" role="group">
+                                    <a type="button" class="btn btn-link" href="#productdevelopment">Development</a>
+                                </div>
+                                <div class="btn-group" role="group">
+                                    <a type="button" class="btn btn-link" href="#capabilities">Capabilities</a>
+                                </div>
+                                <div class="btn-group" role="group">
+                                    <a type="button" class="btn btn-link" href="#sustainability">Sustainability</a>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>  
+                </div>         
+            </div>
         </div>
+
+        
         <div class="section description">
             <div class="container">
                 <div class="row">
@@ -68,7 +93,7 @@
                 </div>
             </div>
         
-        <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="productdevelopment"></a>
+            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="productdevelopment"></a>
         
             <div class="container">
                 <div class="row">
@@ -96,29 +121,21 @@
                     <div class="img-special col-xs-12">
                         <img src="../img/productdev-process.svg" class="img-responsive" alt="" border="none">
                     </div>  
-                </div>
-            </div>
         
-        <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="capabilities"></a>
+            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="capabilities"></a>
         
-            <div class="container">
-                <div class="row">
                     <div class="col-xs-12 col-md-6">
                         <p><span class="lead">OEM Service:</span> We welcome all original equipment inquiries and can organize production on your original designs. Whether your product is only partially rendered or has a full set of blueprints, tap into Morimoto’s wide range of resources to complete production. We will guarantee secrecy and exclusivity on all OEM projects to ensure the product never ends up in the wrong hands.</p>
                     </div>
                     <div class="col-xs-12 col-md-6">
                         <p><span class="lead">ODM Service:</span> The existing Morimoto product line is hard to beat and already covers a lot of ground, but if its not a Morimoto branded product you’re seeking, we understand. Any of our products can be re-branded according to your needs. Since we manufacture everything we sell, if you prefer a different wire length, a different color material, your own logo to be engraved, we can do it. We can even provide templates for all of the packaging so that your branding design can be applied and professionally printed. Morimoto builds some of the world’s most respected brands.</p>
                     </div>
-                </div>
-            </div>
-        
-            <div class="container">
-                <div class="row">
+                
                     <div class="col-sm-6">
                         <div class="thumbnailWrap">
                             <div class="thumbnail">
                                 <div class="thumbnail-image">
-                                    <img src="../img/productdev2.jpg" class="img-responsive" alt="" border="none">
+                                    <img src="../img/productdev-oem.jpg" class="img-responsive" alt="" border="none">
                                 </div>
                             </div>    
                         </div>
@@ -127,7 +144,7 @@
                         <div class="thumbnailWrap">
                             <div class="thumbnail">
                                 <div class="thumbnail-image">
-                                    <img src="../img/productdev2.jpg" class="img-responsive" alt="" border="none">
+                                    <img src="../img/productdev-odm.jpg" class="img-responsive" alt="" border="none">
                                 </div>
                             </div>    
                         </div>
@@ -139,8 +156,189 @@
 
         <div class="container"><hr></div>
 
+        <div class="section description">
+            <div class="container">
+                <div class="row">
+                    <div class="lead col-xs-12">
+                        <h5>Lorem Ipsum</h5>
+                        <h2>Capabilities</h2>
+                    </div>  
+                </div>
+            </div>
         
+            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="sustainability"></a>
         
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-4">
+                        <div class="panelWrap">
+                            <div class="panel panel-default list-group">
+                                <div class="panel-heading"><h4>Services</h4></div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Technical Consulting</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Optical Engineering</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Electrical Engineering</p>
+                                    </div> 
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Technical Drawings</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Digital Product Renderings</p>
+                                    </div> 
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Industrial / Product Design</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Graphic / Packaging Design</p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>  
+                    </div> 
+                    <div class="col-xs-12 col-sm-4">
+                        <div class="panelWrap">
+                            <div class="panel panel-default list-group">
+                                <div class="panel-heading"><h4>Production Capabilities</h4></div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Printed Circuit Boards</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Injection Molded Parts</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Die Cast Parts</p>
+                                    </div> 
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Extruded Parts</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Carbon Fiber Parts</p>
+                                    </div> 
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Rapid Prototypes</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Laser Engraving</p>
+                                    </div> 
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Wire Harnesses</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>  
+                    </div> 
+                    <div class="col-xs-12 col-sm-4">
+                        <div class="panelWrap">
+                            <div class="panel panel-default list-group">
+                                <div class="panel-heading"><h4>Core Lighting Competencies</h4></div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">High Intensity Discharge (HID/Xenon)</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Light Emitting Diodes (LED)</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Halogen / Incandescent</p>
+                                    </div> 
+                                </div>
+                                <div class="panel-body panel-footer">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Reflector Optics</p>
+                                    </div>
+                                </div>
+                                <div class="panel-body">
+                                    <div class="row">
+                                        <p class="col-xs-12 small">Projector Optics</p>
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>  
+                    </div>     
+                </div>
+            </div>
+        </div>
+        
+        <div class="container"><hr></div>
+
+        <div class="section description">
+            <div class="container">
+                <div class="row">
+                    <div class="lead col-xs-12">
+                        <h5>Lorem Ipsum</h5>
+                        <h2>Sustainability</h2>
+                        <p class="large">While our main focus is on improving vision at night, our corporate vision at Morimoto Lighting also incorporates standards focused on sustainability. From manufacturing, waste management, to R&amp;D, we are playing a role to preserve and protect our environment.</p>
+                    </div>
+                    
+                    <div class="col-xs-12">
+                        <div class="thumbnailWrap">
+                            <div class="thumbnail">
+                                <div class="thumbnail-image">
+                                    <img src="../img/sustainability.jpg" class="img-responsive" alt="" border="none">
+                                </div>
+                            </div>    
+                        </div>
+                    </div>
+
+                    <div class="col-xs-12 col-md-6">
+                        <p>Our energy efficient manufacturing facilities observe this philosophy and there, we are conscious of both energy use and waste management. Recyclable materials are recycled. Harmful materials are disposed of properly. Demand for energy is reduced through automatic lighting zones using modern LED fixtures, efficient ventilation, and conscious efforts to reduce waste by team members.</p>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        <p>Each year, our engineering programs make further advancements in the green technologies that go into our products. We have greatly increased the performance reliability, and demand for our mercury-free line of D3 and D4 based xenon lamps and ballasts, in turn promoting the decline of product lines that contain mercury. Utilizing trickle down technology, we are incorporating more and more energy-efficient, zero waste LED light sources into our products than ever before.</p>
+                    </div>
+                    <div class="col-xs-12">
+                        <p>Morimoto believes that maintaining the beauty of our surroundings is just as important as being able to see them clearly. </p>
+                    </div>
+
+                    <div class="col-xs-12">
+                        <div class="thumbnailWrap">
+                            <div class="thumbnail">
+                                <div class="thumbnail-image">
+                                    <img src="../img/sustainability.jpg" class="img-responsive" alt="" border="none">
+                                </div>
+                            </div>    
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
 
 
     <!-- End Primary Page Layout

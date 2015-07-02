@@ -238,9 +238,26 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 .btn-empty-outline { width: 100%; margin-bottom: 5px; color: #ddd; background-color: rgba(255, 255, 255, .35); border: 1px solid #ccc; border-radius: 6px; padding: 5px; -webkit-transition: all 0.3s; transition: all 0.3s; -webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1); transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1); }
 .btn-empty-outline:hover, .btn-empty-outline:focus, .btn-empty-outline.focus, .btn-empty-outline:active, .btn-empty-outline.active, .open > .dropdown-toggle.btn-empty-outline { background-color: rgba(255, 255, 255, .6); border: 1px solid #e2c675; }
 
+.page-links { margin-top: -20px; margin-bottom: 10px; }
+.btn-link { font-weight: normal; color: #939598; border-radius: 6px; }
+a.btn-link { -webkit-transition: none; -moz-transition: none; -o-transition: none; -ms-transition: none; transition: none; }
+.btn-link, .btn-link:active, .btn-link[disabled], fieldset[disabled] .btn-link { background-color: #fff; background: -webkit-linear-gradient(#fff, #ddd); background: -o-linear-gradient(#fff, #ddd); background: -moz-linear-gradient(#fff, #ddd); background: linear-gradient(#fff, #ddd); -webkit-box-shadow: none; box-shadow: none; }
+.btn-link, .btn-link:hover, .btn-link:focus, .btn-link:active { border-color: #ccc; border: solid 1px #ccc; }
+.btn-link:hover, .btn-link:focus { color: #939598; text-decoration: none; background: #fff; background-color: #fff; }
+.btn-link[disabled]:hover, fieldset[disabled] .btn-link:hover, .btn-link[disabled]:focus, fieldset[disabled] .btn-link:focus { color: #777; text-decoration: none; }
+
+.page-links .btn-group-justified > .btn, .btn-group-justified > .btn-group { float: left; width: 100%; }
+.page-links .btn-group > .btn-group:not(:first-child):not(:last-child) > .btn { border-radius: 6px; }
+.page-links .btn-group > .btn-group:first-child > .btn:last-child, .page-links .btn-group > .btn-group:first-child > .dropdown-toggle { border-radius: 6px; }
+.page-links .btn-group > .btn-group:last-child > .btn:first-child { border-radius: 6px; }
+
 @media (min-width:768px) {
 	.btn-large { font-size: 32px; }
 	.btn-empty-outline { margin-bottom: 0; } 
+	.page-links .btn-group-justified > .btn, .btn-group-justified > .btn-group { float: none; width: 1%; }
+	.page-links .btn-group > .btn-group:not(:first-child):not(:last-child) > .btn { border-radius: 0; }
+	.page-links .btn-group > .btn-group:first-child > .btn:last-child, .page-links .btn-group > .btn-group:first-child > .dropdown-toggle { border-top-right-radius: 0; border-bottom-right-radius: 0; }
+	.page-links .btn-group > .btn-group:last-child > .btn:first-child { border-top-left-radius: 0; border-bottom-left-radius: 0; }
 }
 
 .btn-primary-icon { padding: 6px 8px; background-color: rgba(198, 165, 113, .35); background: -webkit-linear-gradient(#E2C675, #C6A571); background: -o-linear-gradient(#E2C675, #C6A571); background: -moz-linear-gradient(#E2C675, #C6A571); background: linear-gradient(#E2C675, #C6A571); border-color: #c6a571; border-right: 0; }
@@ -552,7 +569,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 .panel-warning > .panel-footer + .panel-collapse > .panel-body, .panel-danger > .panel-footer + .panel-collapse > .panel-body { border-bottom-color: #ddd; }
 
 .thumbnailWrap, .panelWrap { float: left; width: 100%; background-color: rgba(255, 255, 255, .5); padding: 4px; border-radius: 6px; overflow: hidden; margin-bottom: 15px; }
-.utility .thumbnailWrap { margin-bottom: 0; margin-top: 20px; }
+.utility .thumbnailWrap, .utility .panelWrap { margin-bottom: 0; margin-top: 15px; }
 
 .thumbnail, .panel { position: relative; display: block; padding: 0; margin-bottom: 0; line-height: 1.4; background-color: #fff; border: 1px solid #ddd; border-radius: 4px; overflow: hidden; -webkit-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out; }
 .panel { background-color: rgba(255, 255, 255, .5); }
@@ -568,11 +585,13 @@ a .thumbnail:hover, a .thumbnail:focus, a .thumbnail.active { border-color: #E2C
 @media (min-width:768px) {
 	.thumbnail.special .thumbnail-image { width: 50%; }
 	.thumbnailWrap { margin-bottom: 30px; }
+	.utility .thumbnailWrap, .utility .panelWrap { margin-bottom: 0; margin-top: 20px; }
+	.productdetail .panelWrap { margin-top: 0; margin-bottom: 15px; }
 	.productdetail .panel-product { margin-top: -160px; }
 }
 @media (min-width:992px) {
 	.thumbnail .thumbnail-image img { margin-top: -10%; }
-	.panelWrap { margin-bottom: 0; }
+	
 }
 
 

@@ -904,6 +904,7 @@
 		<!-- Forms
 		================================================== -->
 		
+	<div class="container">
 		<a name="forms"></a> 
 		<div class="bs-docs-section">
 			<div class="row">
@@ -976,7 +977,7 @@
 									  	<div class="form-group">
 											<div class="col-lg-10 col-lg-offset-2">
 										  		<div class="btn btn-primary btn-sm">Cancel</div>
-										  		<div type="submit" class="btn btn-primary">Submit</div>
+										  		<div class="btn btn-large"><input class="submit-input" type="submit" value=""/><span class="submit-input-text">Submit</span></div>
 											</div>
 									  	</div>
 									</fieldset>

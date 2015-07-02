@@ -179,6 +179,10 @@ fieldset { -webkit-margin-start: 0; -webkit-margin-end: 0; -webkit-padding-befor
 .form-control:-ms-input-placeholder { color: #939598; }
 .form-control::-webkit-input-placeholder { color: #939598; }
 fieldset hr { border: none; border-top: 1px solid #ccc; width: 100%; margin-top: 10px; margin-bottom: 10px; }
+.productdetail .form-group { margin-bottom: 0; }
+.productdetail .form-group .form-control { margin-bottom: 10px; }
+.productdetail .form-group .input-group.spinner .form-control { margin-bottom: 0; }
+.productdetail .form-group .input-group.spinner { margin-bottom: 10px; }
 
 @media (min-width:768px) {
 	.form-control { margin-bottom: 0; }
@@ -217,7 +221,6 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 .btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled.focus, .btn-primary[disabled].focus, fieldset[disabled] .btn-primary.focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active { background-color: #428bca; border-color: #357ebd; }
 .btn-primary .badge { color: #428bca; background-color: #fff; }
 
-
 .btn-large { font-size: 26px; letter-spacing: -2px; color: #c6a571; text-shadow: 1px 1px #fff; border-radius: 8px; border: solid 1px #ccc; background-color: #ddd; -webkit-box-shadow: inset 0 1px #faf9f8, inset 0 0 2px rgba(255,255,255,.5); -moz-box-shadow: inset 0 1px #faf9f8, inset 0 0 2px rgba(255,255,255,.5);
 	box-shadow: inset 0 1px #faf9f8, inset 0 0 2px rgba(255,255,255,.5); background-image: -webkit-linear-gradient(bottom, #ddd, #eee); background-image: -moz-linear-gradient(bottom, #ddd, #eee); background-image: -o-linear-gradient(bottom, #ddd, #eee); background-image: -ms-linear-gradient(bottom, #ddd, #eee); background-image: linear-gradient(to top, #ddd, #eee); }
 .btn-large:hover, .btn-large:focus, .btn-large.focus, .btn-large:active, .btn-large.active, .open > .dropdown-toggle.btn-large { color: #e2c675; border: solid 1px #ccc; 
@@ -225,6 +228,8 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 /*.btn-large:active, .btn-large.active, .open > .dropdown-toggle.btn-large { background-image: none; }*/
 .btn-large.disabled, .btn-large[disabled], fieldset[disabled] .btn-large, .btn-large.disabled:hover, .btn-large[disabled]:hover, fieldset[disabled] .btn-large:hover, .btn-large.disabled:focus, .btn-large[disabled]:focus, fieldset[disabled] .btn-large:focus, .btn-large.disabled.focus, .btn-large[disabled].focus, fieldset[disabled] .btn-large.focus, .btn-large.disabled:active, .btn-large[disabled]:active, fieldset[disabled] .btn-large:active, .btn-large.disabled.active, .btn-large[disabled].active, fieldset[disabled] .btn-large.active { background-color: #fff; border-color: #ccc; }
 .btn-large .badge { color: #fff; background-color: #333; }
+.btn-large .submit-input { width: 100%; float: left; text-indent: -999px; cursor: pointer; margin: 0; -webkit-margin-before: 0em; -webkit-margin-after: 0em; border-radius: 0; border: none; background-color: transparent; -webkit-appearance: none; }
+.btn-large .submit-input-text { position: relative; left: -100%; }
 
 .btn-empty { color: #ddd; background-color: transparent; border: none; border-radius: 0; opacity: .5; -webkit-transition: all 0.3s; transition: all 0.3s; -webkit-transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1); transition-timing-function: cubic-bezier(0.75, 0, 0.125, 1); }
 .btn-empty:hover, .btn-empty:focus, .btn-empty.focus, .btn-empty:active, .btn-empty.active, .open > .dropdown-toggle.btn-empty { opacity: 1; }
@@ -547,6 +552,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 .panel-warning > .panel-footer + .panel-collapse > .panel-body, .panel-danger > .panel-footer + .panel-collapse > .panel-body { border-bottom-color: #ddd; }
 
 .thumbnailWrap, .panelWrap { float: left; width: 100%; background-color: rgba(255, 255, 255, .5); padding: 4px; border-radius: 6px; overflow: hidden; margin-bottom: 15px; }
+.utility .thumbnailWrap { margin-bottom: 0; margin-top: 20px; }
 
 .thumbnail, .panel { position: relative; display: block; padding: 0; margin-bottom: 0; line-height: 1.4; background-color: #fff; border: 1px solid #ddd; border-radius: 4px; overflow: hidden; -webkit-transition: all .2s ease-in-out; -o-transition: all .2s ease-in-out; transition: all .2s ease-in-out; }
 .panel { background-color: rgba(255, 255, 255, .5); }
@@ -566,7 +572,7 @@ a .thumbnail:hover, a .thumbnail:focus, a .thumbnail.active { border-color: #E2C
 }
 @media (min-width:992px) {
 	.thumbnail .thumbnail-image img { margin-top: -10%; }
-	.panelWrap {margin-bottom: 0; }
+	.panelWrap { margin-bottom: 0; }
 }
 
 
@@ -782,16 +788,17 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 .intro h4 { text-shadow: 0 0 10px #111; }
 .home .intro h4 { margin-bottom: 20px; }
 .intro .btn-empty.btn-lg.icon { height: 70px; position: absolute; bottom: 0; left: 50%; margin-left: -22px; }
-
 .productcategory .intro { background-position: top right; background-repeat: no-repeat; -webkit-background-size: auto 100%; -moz-background-size: auto 100%; -o-background-size: auto 100%; background-size: auto 100%; }
-.description .col-md-6 { margin-bottom: 20px; }
-.description .col-md-6 ~ .col-md-6 { margin-bottom: 0px; }
 
 .section { width: 100%; overflow: hidden; padding-top: 40px; padding-bottom: 40px; }
 .utility .section { overflow: visible; padding-top: 20px; padding-bottom: 20px; }
+
+/*.description .col-md-6 { margin-bottom: 20px; }
+.description .col-md-6 ~ .col-md-6 { margin-bottom: 0px; }
 .utility .section.description ~ .section.description.secondary { padding-top: 0; padding-bottom: 0; }
 .utility .section.description p { margin: 0; }
-.utility .section.description p ~ p { margin-top: 20px; }
+.utility .section.description p ~ p { margin-top: 20px; }*/
+.utility .section.description .lead h2 { margin: 0; }
 
 .home .section.module-callout { padding-top: 60px; padding-bottom: 60px; }
 .module-callout .container-fluid { background-color: rgba(13, 13, 17, .75); background-image: url(../img/morimoto-sun.svg); background-position: center left; background-repeat: no-repeat; -webkit-background-size: auto 100%; -moz-background-size: auto 100%; -o-background-size: auto 100%; background-size: auto 100%; }
@@ -820,7 +827,7 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 	.intro .featureHeadline { margin-top: 25vh; }
 	.intro h4 { font-size: 18px; }
 	.home .intro h4 { margin-bottom: 30px; }
-	.productdetail .description .col-md-6 { margin-bottom: 0; }
+	/*.productdetail .description .col-md-6 { margin-bottom: 0; }*/
 }
 @media (min-width:1200px) {
 	.intro h4 { font-size: 20px; }

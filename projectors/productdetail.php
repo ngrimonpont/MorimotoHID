@@ -143,8 +143,6 @@
                                                         <option value="#">#</option>
                                                     </select>
                                                 </div>
-                                            </div>
-                                            <div class="form-group">
                                                 <div class="col-sm-6">
                                                     <select class="form-control drop" id="select">
                                                         <option value="">Topic</option>
@@ -179,8 +177,11 @@
                                                         <button class="btn btn-large" type="button">+</button>
                                                         <button class="btn btn-large" type="button">–</button>
                                                     </div>
-                                                    <div class="input-group-btn">
+                                                    <!-- <div class="input-group-btn">
                                                         <a type="button" class="btn btn-large" href="#">Add <span class="hidden-xs">to Cart</span></a>
+                                                    </div> -->
+                                                    <div class="input-group-btn">
+                                                        <div class="btn btn-large"><input class="submit-input" type="submit" value=""/><span class="submit-input-text">Add <span class="hidden-xs">to Cart</span></span></div>
                                                     </div>
                                                 </div>
                                                 </div>

@@ -181,7 +181,10 @@
                                                         <a type="button" class="btn btn-large" href="#">Add <span class="hidden-xs">to Cart</span></a>
                                                     </div> -->
                                                     <div class="input-group-btn">
-                                                        <div class="btn btn-large"><input class="submit-input" type="submit" value=""/><span class="submit-input-text">Add <span class="hidden-xs">to Cart</span></span></div>
+                                                        <div class="btn btn-large">
+                                                            <input class="submit-input" type="submit" value=""/>
+                                                            <span class="submit-input-text">Add <span class="hidden-xs">to Cart</span></span>
+                                                        </div>
                                                     </div>
                                                 </div>
                                                 </div>

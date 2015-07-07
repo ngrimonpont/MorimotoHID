@@ -112,8 +112,9 @@
         <div class="section"> 
             <div class="container">   
                 <div class="row">
-                    <div class="col-xs-12 col-md-6 pull-right">      
-                        <div class="panelWrap panel-product">
+                    <div class="col-xs-12 col-md-6 pull-right">   
+                        <!-- Apply id="productGrid-productsWholesale" if user is logged in as Wholesaler -->   
+                        <div class="panelWrap panel-product" id="productGrid-productsWholesale">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
                                     <h5>Product Category</h5>
@@ -167,7 +168,8 @@
                                             
                                             <hr class="aligncenter">
 
-                                            <h2 class="text-right"><span class="text-gold">$439.99</span> <span class="h4 text-graylight text-weight400bank">MSRP</span></h2>
+                                            <h2 class="text-right retail"><span class="text-gold">$439.99</span> <span class="h4 text-graylight text-weight400bank">MSRP</span></h2>
+                                            <h2 class="text-right wholesale"><span class="text-gold">$399.99</span> <span class="h4 text-graylight text-weight400bank">Wholesale</span></h2>
 
                                             <div class="form-group col-xs-9 col-sm-7 col-md-10 col-lg-9 pull-right">
                                                 <div class="row">
@@ -209,24 +211,24 @@
                         </a>
                         <hr class="aligncenter">
                     </div>
-                    <div class="col-xs-12 icon-features"> 
+                    <div class="col-xs-12 col-md-6 icon-features"> 
                     <div class="row">    
-                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                        <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
-                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                        <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
-                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                        <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
-                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                        <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
-                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                        <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
-                        <div class="col-xs-4 col-sm-2 col-md-1">  
+                        <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="left" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="../img/icon-arrowR939598.svg" class="img-responsive" alt="" border="none"></div>
                         </div> 
                         </div>   

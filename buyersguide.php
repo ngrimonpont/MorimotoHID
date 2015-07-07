@@ -9,7 +9,7 @@
 	<!-- Basic Page Needs
     ================================================== -->
 	<meta charset="utf-8">
-	<title>Projectors • MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
+	<title>Buyers Guide • MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="" />
 	<meta name="author" content="SHIMITS Design/Development">
@@ -37,7 +37,7 @@
 
 </head>
 
-<body class="feature1 productcategory projectors">
+<body class="feature1 productcategory buyersguide">
 
     <!-- Header
     ================================================== -->
@@ -56,7 +56,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <h4 class="text-golddark">Lorem Ipsum</h4>
-                        <h1>Projectors</h1>
+                        <h1>Buyers Guide</h1>
                         <p class="lead text-graylight text-uppercase text-weight700pluto">The product line that put Morimoto on the Map. Our line of high performance bi-xenon projectors that’s been designed exclusively for the task of retrofitting headlights was the original name in the aftermarket projectors game, and continues to set the standard in a sea of lesser quality alternatives. </p>
                         <div class="hidden-xs">
                             <p>Morimoto has an established team of engineers with a rich background in specializing in optics. We utilize the latest ray-tracing software from LightTools and ZeMax, giving us the ability to design and accurately predict the shape and distribution of light from any projectors under development. These advanced programs allow us to model new reflectors and digitally pair them with industry-standard high intensity discharge lamp sizes such as H1 or D2S.</p>
@@ -65,6 +65,61 @@
                             <p>We can laser engrave the projectors with your label and furnish packaging templates for individual resale.</p>
                         </div>    
                     </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section module-quickstartguide">
+            <div class="container-fluid">
+                <div class="module-quickstartguideInner">
+                    
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
+                                <div class="row">
+                                    <div class="lead col-xs-12">
+                                        <h5 class="text-gray">Find the <span class="hidden-xs">Morimoto </span>Products for you</h5>
+                                    </div>  
+                                    <div class="col-xs-12">        
+                                        <form class="form-horizontal">
+                                            <fieldset>
+                                                <div class="form-group">
+                                                    <div class="col-xs-12 col-sm-2">
+                                                        <select class="form-control drop" id="select">
+                                                            <option value="">Year</option>
+                                                            
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <select class="form-control drop" id="select">
+                                                            <option value="">Make</option>
+                                                            
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <select class="form-control drop" id="select">
+                                                            <option value="">Model</option>
+                                                            
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-3">
+                                                        <select class="form-control drop" id="select">
+                                                            <option value="">Product Category</option>
+                                                            
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-xs-1 col-xs-offset-10 col-sm-1 col-sm-offset-0">
+                                                        <a type="submit" class="btn btn-empty icon icon-arrowRfff" href="#"></a>
+                                                    </div>
+                                                </div>      
+                                            </fieldset>
+                                        </form> 
+                                    </div>          
+                                </div>    
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>

@@ -137,14 +137,7 @@
                                                     <input type="text" class="form-control" id="inputDefault" value="City">
                                                 </div>
                                                 <div class="col-sm-6">
-                                                    <select class="form-control drop" id="select">
-                                                        <option value="">State</option>
-                                                        <option value="#">#</option>
-                                                        <option value="#">#</option>
-                                                        <option value="#">#</option>
-                                                        <option value="#">#</option>
-                                                        <option value="#">#</option>
-                                                    </select>
+                                                    <input type="text" class="form-control" id="inputDefault" value="Region/State">
                                                 </div>
                                             </div>
                                             <div class="form-group">
@@ -164,14 +157,17 @@
                                             </div>
                                             <hr class="aligncenter">
                                             <div class="form-group">
-                                                <div class="col-sm-12">
+                                                <div class="col-sm-6">
                                                     <input type="text" class="form-control" id="inputDefault" value="Email Address">
+                                                </div>
+                                                <div class="col-sm-6">
+                                                    <input type="text" class="form-control" id="inputDefault" value="Website URL">
                                                 </div>
                                             </div>
                                             <hr class="aligncenter">
                                             <div class="form-group">
                                                 <div class="col-sm-12">
-                                                    <div class="btn btn-large pull-right"><input class="submit-input" type="submit" value=""/><span class="submit-input-text">Sign Up</span></div>
+                                                    <div class="btn btn-large pull-right"><input class="submit-input" type="submit" value=""/><span class="submit-input-text">Apply</span></div>
                                                 </div>
                                             </div>
                                         </fieldset>
@@ -198,16 +194,8 @@
         
             <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="authenticity"></a>
         
-                    <div class="col-xs-12 col-md-6">
+                    <div class="col-xs-12">
                         <p>Morimoto’s Master Dealers are held to rigorous standards. Their duty is to deliver the quality service that matches the products by offering everything from product recommendations, assistance with installation, and post sales support. Many apply for such status, few are granted the privilege. </p>
-                        <p>All product warranties are only valid when purchased through the Master Dealer network. Purchasing our products out-of-network places you at risk, whereby you may receive items that are likely to be counterfeit, used, or defective.  We strongly urge all consumers to protect themselves by purchasing from an in-network distributor. </p>
-                    </div>
-                    <div class="col-xs-12 col-md-6">
-                        <p>Like any high-end goods that are in demand; Morimoto has faced serious difficulty with counterfeit products of far lesser quality. No matter where you shop, make sure you: </br> 
-                        • Compare their Authorized Dealer badge and it’s unique ID with the official listing on this page</br> 
-                        • Ensure products are packed in up-to-date packaging</br> 
-                        • Ensure Hologram of authenticity is present on all products</p>
-                        <p>If any suspicion exists: please contact us to verify legitimacy on any product and/or dealer.</p>
                     </div>
                 
                     <div class="col-xs-12">
@@ -240,13 +228,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
-                        <p>Retailers in the Morimoto Authorized Dealer network will deliver the service and quality products that discerning enthusiasts have come to expect from the brand. They can also assist customers in making the right purchase decisions and any required after-sales support. Morimoto honors product warranties only when the products are sold through an authorized retailer. Purchasing our products out-of-network places you at risk. </p>
-
-                        <p>Reward yourself with the best. Be educated and shop with care. </br> 
-                        • Look for the Morimoto Authorized Dealer logo on their site. It will contain a unique ID number and link to this page.</br> 
-                        • Verify that supplier’s location and company details appear on our dealer registry map. Beware of unknown dealers. </br> 
-                        • Ensure items arrive in proper Morimoto packaging and contain authenticity holograms.</p>
+                        <p>Retailers in the Morimoto Authorized Dealer network will deliver the service and quality products that discerning enthusiasts have come to expect from the brand. They can also assist customers in making the right purchase decisions and any required after-sales support. Morimoto honors product warranties only when the products are sold through an authorized retailer. Purchasing our products out-of-network places you at risk. Reward yourself with the best. Be educated and shop with care. </p>
                     </div>
+
+                    <div class="col-xs-12 col-sm-4 img-special">
+                        <img src="../img/Morimoto_AuthorizedDistributorBadge_20120801.png" class="img-responsive" alt="" border="none">
+                        <p class="small">Look for the Morimoto Authorized Dealer logo on their site. It will contain a unique ID number and link to this page.</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 img-special">
+                        <img src="../img/Morimoto_AuthorizedDistributorMap.png" class="img-responsive" alt="" border="none">
+                        <p class="small">Verify that supplier’s location and company details appear on our dealer registry map. Beware of unknown dealers.</p>
+                    </div>
+                    <div class="col-xs-12 col-sm-4 img-special">
+                        <img src="../img/Morimoto_AuthorizedDistributorHologram.png" class="img-responsive" alt="" border="none">
+                        <p class="small">Ensure items arrive in proper Morimoto packaging and contain authenticity holograms.</p>
+                    </div>        
                 </div>
             </div>
         </div>            

@@ -37,7 +37,7 @@
 
 </head>
 
-<body class="utility applications">
+<body class="utility about">
 
     <!-- Header
     ================================================== -->
@@ -63,16 +63,20 @@
                         <div class="col-xs-12 col-lg-8 col-lg-offset-2">
                             <div class="btn-group btn-group-justified" role="group">
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link" href="#about">About</a>
+                                    <a type="button" class="btn btn-link hidden-xs" href="#about">About</a>
+                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#about-xs">About</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link" href="#productdevelopment">Development</a>
+                                    <a type="button" class="btn btn-link hidden-xs" href="#productdevelopment">Development</a>
+                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#productdevelopment-xs">Development</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link" href="#capabilities">Capabilities</a>
+                                    <a type="button" class="btn btn-link hidden-xs" href="#capabilities">Capabilities</a>
+                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#capabilities-xs">Capabilities</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link" href="#sustainability">Sustainability</a>
+                                    <a type="button" class="btn btn-link hidden-xs" href="#sustainability">Sustainability</a>
+                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#sustainability-xs">Sustainability</a>
                                 </div>
                             </div>
                         </div> 
@@ -81,7 +85,7 @@
             </div>
         </div>
 
-        
+        <!-- Anchor tag :: duplicate for mobile only  --><a name="about-xs"></a>
         <div class="section description">
             <div class="container">
                 <div class="row">
@@ -108,6 +112,7 @@
             </div>
         </div>
 
+        <!-- Anchor tag :: duplicate for mobile only  --><a name="productdevelopment-xs"></a>
         <div class="container"><hr></div>
 
         <div class="section description">
@@ -154,6 +159,7 @@
             </div>
         </div>
 
+        <!-- Anchor tag :: duplicate for mobile only  --><a name="capabilities-xs"></a>
         <div class="container"><hr></div>
 
         <div class="section description">
@@ -295,6 +301,7 @@
             </div>
         </div>
         
+        <!-- Anchor tag :: duplicate for mobile only  --><a name="sustainability-xs"></a>
         <div class="container"><hr></div>
 
         <div class="section description">
@@ -310,7 +317,7 @@
                         <div class="thumbnailWrap">
                             <div class="thumbnail">
                                 <div class="thumbnail-image">
-                                    <img src="../img/sustainability.jpg" class="img-responsive" alt="" border="none">
+                                    <img src="../img/jumbo-sustainability.jpg" class="img-responsive" alt="" border="none">
                                 </div>
                             </div>    
                         </div>
@@ -326,16 +333,6 @@
                         <p>Morimoto believes that maintaining the beauty of our surroundings is just as important as being able to see them clearly. </p>
                     </div>
 
-                    <div class="col-xs-12">
-                        <div class="thumbnailWrap">
-                            <div class="thumbnail">
-                                <div class="thumbnail-image">
-                                    <img src="../img/sustainability.jpg" class="img-responsive" alt="" border="none">
-                                </div>
-                            </div>    
-                        </div>
-                    </div>
-                    
                 </div>
             </div>
         </div>

@@ -261,7 +261,7 @@
                     <div class="col-xs-12 col-md-6">
                         <p><span class="lead">Fail-Safe:</span> Unlike most generic harnesses out there that rely on a single low-quality relay to power both headlights, the Morimoto Harness utilizes one relay per side- so if one did happen fail, you wouldn't be left completely in the dark. Each 40A relay is completely sealed against the elements using ribbed silicone upper and lower seals, and has an flywheel diode for back-EMF protection. Every other connection harness-wide is sealed with the proper silicone grommets. Live somewhere with weather that regularly sucks? No problem.</p>
 
-                        <p><span class="lead">OEM Grade:</span> Aside from being ahead of the game from a technical standpoint, the Mopar HD relay is also a work of art. With it's wiring protected by abrasion resistant Techflex mesh sleeving and OEM-style relay cubes held together by a laser engraved mounting bracket that's been artfully anodized with a titanium gray finish - the HD relay will look factory fresh under the hood!
+                        <p><span class="lead">OEM Grade:</span> Aside from being ahead of the game from a technical standpoint, the Mopar HD relay is also a work of art. With it's wiring protected by abrasion resistant Techflex mesh sleeving and OEM-style relay cubes held together by a laser engraved mounting bracket that's been artfully anodized with a titanium gray finish - the HD relay will look factory fresh under the hood!</p>
 
                         <p><span class="small">*NOTE: This harness only works on the 13-14 Dodge Ram, will not work on the 2015+ (we are still developing a solution for the updated truck).</span></p>
 

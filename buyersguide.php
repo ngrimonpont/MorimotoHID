@@ -57,13 +57,7 @@
                     <div class="col-xs-12">
                         <h4 class="text-golddark">Lorem Ipsum</h4>
                         <h1>Buyers Guide</h1>
-                        <p class="lead text-graylight text-uppercase text-weight700pluto">The product line that put Morimoto on the Map. Our line of high performance bi-xenon projectors that’s been designed exclusively for the task of retrofitting headlights was the original name in the aftermarket projectors game, and continues to set the standard in a sea of lesser quality alternatives. </p>
-                        <div class="hidden-xs">
-                            <p>Morimoto has an established team of engineers with a rich background in specializing in optics. We utilize the latest ray-tracing software from LightTools and ZeMax, giving us the ability to design and accurately predict the shape and distribution of light from any projectors under development. These advanced programs allow us to model new reflectors and digitally pair them with industry-standard high intensity discharge lamp sizes such as H1 or D2S.</p>
-                            <p>Despite 20 years combined experience in automotive lighting, we still continue learning today and never stop improving the form factor and performance from our line of projectors, making each new generation is better than the last, and especially ahead of any competition. Our current line of automotive projector optics rival those from well-known original equipment manufactures such as Hella and Koito.</p>
-                            <p>From the first-place performer FX-R 3.0 to the dependable and easy to install Morimoto Mini D2S and H1 bi-xenon projectors, you can count on an amazing amount of light output that's not only very usable, but also aesthetically pleasing. The most discerning individuals, garages, and race teams choose Morimoto for these reasons. </p>  
-                            <p>We can laser engrave the projectors with your label and furnish packaging templates for individual resale.</p>
-                        </div>    
+                        <p class="lead text-graylight text-uppercase text-weight700pluto">Morimoto’s selection of high performance automotive lighting products includes fitments for nearly every year, make, and model on the road today. From forward lighting to signal and interior lighting, we likely offer more than one compatible option for your application. Whether you simply need a replacement part or an upgrade, start here.</p>
                     </div>
                 </div>
             </div>
@@ -77,45 +71,70 @@
                         <div class="row">
                             <div class="col-xs-10 col-xs-offset-1 col-sm-12 col-sm-offset-0">
                                 <div class="row">
-                                    <div class="lead col-xs-12">
+                                    <div class="lead col-xs-12 col-md-6">
                                         <h5 class="text-gray">Find the <span class="hidden-xs">Morimoto </span>Products for you</h5>
+                                        <h2 class="text-white">Automobile Info:</h2>
                                     </div>  
-                                    <div class="col-xs-12">        
+                                    <div class="col-xs-12 col-md-6">        
                                         <form class="form-horizontal">
                                             <fieldset>
                                                 <div class="form-group">
-                                                    <div class="col-xs-12 col-sm-2">
+                                                    <div class="col-xs-12 col-sm-3">
                                                         <select class="form-control drop" id="select">
                                                             <option value="">Year</option>
                                                             
                                                         </select>
                                                     </div>
-                                                    <div class="col-xs-12 col-sm-3">
+                                                    <div class="col-xs-12 col-sm-4">
                                                         <select class="form-control drop" id="select">
                                                             <option value="">Make</option>
                                                             
                                                         </select>
                                                     </div>
-                                                    <div class="col-xs-12 col-sm-3">
+                                                    <div class="col-xs-12 col-sm-4">
                                                         <select class="form-control drop" id="select">
                                                             <option value="">Model</option>
-                                                            
-                                                        </select>
-                                                    </div>
-                                                    <div class="col-xs-12 col-sm-3">
-                                                        <select class="form-control drop" id="select">
-                                                            <option value="">Product Category</option>
                                                             
                                                         </select>
                                                     </div>
                                                     <div class="col-xs-1 col-xs-offset-10 col-sm-1 col-sm-offset-0">
                                                         <a type="submit" class="btn btn-empty icon icon-arrowRfff" href="#"></a>
                                                     </div>
-                                                </div>      
+                                                </div>
                                             </fieldset>
                                         </form> 
-                                    </div>          
-                                </div>    
+                                    </div>  
+                                </div>
+                                <!-- <hr>
+                                <div class="row">
+                                    <div class="lead col-xs-12 col-md-6">
+                                        <h5 class="text-gray">Further refine by Function and Product Type:</h5>
+                                        <h2 class="text-white">Product Info:</h2>
+                                    </div>  
+                                    <div class="col-xs-12 col-md-6"> 
+                                        <form class="form-horizontal">
+                                            <fieldset>
+                                                <div class="form-group">
+                                                    <div class="col-xs-12 col-sm-4">
+                                                        <select class="form-control drop" id="select">
+                                                            <option value="">Function Type</option>
+                                                            
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-xs-12 col-sm-4">
+                                                        <select class="form-control drop" id="select">
+                                                            <option value="">Product Type</option>
+                                                            
+                                                        </select>
+                                                    </div>
+                                                    <div class="col-xs-1 col-xs-offset-10 col-sm-1 col-sm-offset-0">
+                                                        <a type="submit" class="btn btn-empty icon icon-arrowRfff" href="#"></a>
+                                                    </div>
+                                                </div>
+                                            </fieldset>
+                                        </form> 
+                                    </div>      
+                                </div>  -->   
                             </div>
                         </div>
                     </div>

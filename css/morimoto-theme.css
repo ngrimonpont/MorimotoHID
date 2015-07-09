@@ -824,10 +824,12 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 .productdetail .section .panelWrap#productGrid-productsWholesale h2.wholesale { display: block; }
 .productdetail .section .panelWrap#productGrid-productsWholesale h2.retail span { text-decoration: line-through; color: #bbbbbb; }
 
-.section.module-quickstartguide { position: relative; margin-top: -120px; padding-top: 60px; padding-bottom: 60px; }
+.section.module-quickstartguide { position: relative; padding-top: 60px; padding-bottom: 60px; }
+.home .section.module-quickstartguide { margin-top: -120px; }
+.buyersguide .section.module-quickstartguide { padding-bottom: 20px; }
 .module-quickstartguide .container-fluid { width: 110%; position: relative; left: -5%; -ms-transform: rotate(2deg); -webkit-transform: rotate(2deg); transform: rotate(2deg); background-color: rgba(199, 165, 113, .6); }
 .module-quickstartguideInner { width: 110%; position: relative; left: -5%; -ms-transform: rotate(-1deg); -webkit-transform: rotate(-1deg); transform: rotate(-1deg); background-color: rgba(199, 165, 113, .6); }
-.module-quickstartguide .row { padding-top: 20px; padding-bottom: 25px; -ms-transform: rotate(-.5deg); -webkit-transform: rotate(-.5deg); transform: rotate(-.5deg); }
+.module-quickstartguide .row { padding-top: 20px; padding-bottom: 15px; -ms-transform: rotate(-.5deg); -webkit-transform: rotate(-.5deg); transform: rotate(-.5deg); }
 
 .section.module-news { padding-top: 0; }
 
@@ -835,8 +837,8 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 	.home .intro { height: 570px; }
 	.productcategory .intro { padding-top: 150px; }
 	.intro .featureHeadline { margin-top: 160px; }
-	.module-quickstartguide .form-horizontal { margin-top: 18px; }
-
+	.buyersguide .section.module-quickstartguide { padding-bottom: 60px; }
+	.module-quickstartguide .row { padding-bottom: 25px; }
 	.home .module-callout .container-fluid { width: 110%; position: relative; left: -5%; -ms-transform: rotate(-3deg); -webkit-transform: rotate(-3deg); transform: rotate(-3deg); }
 	.home .module-callout .container .row { padding-top: 60px; padding-bottom: 60px; -ms-transform: rotate(3deg); -webkit-transform: rotate(3deg); transform: rotate(3deg); }
 	.module-callout p { font-size: 15px; padding-left: 10px; padding-right: 10px; }
@@ -846,6 +848,7 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 	.intro .featureHeadline { margin-top: 25vh; }
 	.intro h4 { font-size: 18px; }
 	.home .intro h4 { margin-bottom: 30px; }
+	.module-quickstartguide .form-horizontal { margin-top: 18px; }
 }
 @media (min-width:1200px) {
 	.intro h4 { font-size: 20px; }

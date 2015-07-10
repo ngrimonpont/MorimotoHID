@@ -59,7 +59,7 @@ body.utility { background: #eee; background-image: url(../img/bg-lightstone.jpg)
 .ptb30 { padding-top: 30px; padding-bottom: 40px; }
 .ptb60 { padding-top: 60px; padding-bottom: 70px; }
 
-hr { border-top: 1px solid #ccc; width: 100%; }
+hr { border-top: 1px solid #ccc; width: 100%; float: left; }
 .clear { clear: both; display: block; font-size: 0; height: 0; line-height: 0; width: 100%; }
 
 
@@ -552,6 +552,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 
 .panel-product .panel-heading { background-color: rgba(25, 25, 25, .75); padding: 15px 15px 20px 15px; }
 .panel-product .panel-body { background-color: #fff; }
+.panel-product .panel-footer { background-color: #f1f1f1; }
 .panel-product .panel-body h2 { margin: 15px 0; }
 .productdetail .panel-product { margin-top: 0; position: relative; z-index: 1040; }
 
@@ -586,6 +587,7 @@ a .thumbnail:hover, a .thumbnail:focus, a .thumbnail.active { border-color: #E2C
 	.thumbnail.special .thumbnail-image { width: 50%; }
 	.thumbnailWrap { margin-bottom: 30px; }
 	.utility .thumbnailWrap, .utility .panelWrap { margin-bottom: 0; margin-top: 20px; }
+	.utility .order-info .panelWrap { margin-bottom: 0; margin-top: 0; }
 	.productdetail .panelWrap { margin-top: 0; margin-bottom: 15px; }
 	.productdetail .panel-product { margin-top: -160px; }
 	.thumbnail .thumbnail-image.dealersMapWrap { max-height: 450px; height: 450px; }
@@ -683,6 +685,13 @@ a.badge:hover, a.badge:focus { color: #fff; text-decoration: none; cursor: point
 ======================================================================================================================================================
 ====================================================================================================================================================== */
 
+.modal { z-index: 2000; }
+.modal-content { overflow: hidden; }
+.modal-header { border-bottom: 1px solid #ccc; }
+.modal-body { border-bottom: 1px solid #ccc; }
+.modal-body-alt, .modal-footer-alt { background-color: #f5f5f5; }
+
+
 .popover { border: 1px solid #ccc; }
 .popover.top > .arrow { border-top-color: #ccc; }
 .popover.top > .arrow:after { border-top-color: #fff; }
@@ -716,7 +725,6 @@ a.text-secondary:hover, a.text-golddark:hover, a .text-golddark:hover { color: #
 a.text-goldlight:hover, a .text-goldlight:hover { color: #e2c675; }
 .bg-goldlight { color: #423f3f; background-color: #f4e09c; }
 .bg-goldlight:hover, .bg-goldlight:hover { background-color: #e2c675; }
-
 
 .text-tertiary, .text-copper { color: #a55e44; }
 a.text-tertiary:hover, a.text-copper:hover, a .text-copper:hover { color: #905444; }
@@ -799,11 +807,11 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 ======================================================================================================================================================
 ====================================================================================================================================================== */
 
-.intro { height: auto; position: relative; width: 100%; padding-top: 110px; }
+.intro, .utility .section.intro { height: auto; position: relative; width: 100%; padding-top: 110px; }
 .home .intro { min-height: 400px; padding-top: 0; }
 .intro .featureHeadline { margin-top: 120px; }
 .intro .featureHeadline img { width: 100%; height: auto; }
-.intro h4 { text-shadow: 0 0 10px #111; }
+.home .intro h4 { text-shadow: 0 0 10px #111; }
 .home .intro h4 { margin-bottom: 20px; }
 .intro .btn-empty.btn-lg.icon { height: 70px; position: absolute; bottom: 0; left: 50%; margin-left: -22px; }
 .productcategory .intro { background-position: top right; background-repeat: no-repeat; -webkit-background-size: auto 100%; -moz-background-size: auto 100%; -o-background-size: auto 100%; background-size: auto 100%; }
@@ -835,7 +843,7 @@ a.text-danger:hover, a.text-warning:hover { color: #905444; }
 
 @media (min-width:768px) {
 	.home .intro { height: 570px; }
-	.productcategory .intro { padding-top: 150px; }
+	.productcategory .intro, .utility .section.intro { padding-top: 150px; }
 	.intro .featureHeadline { margin-top: 160px; }
 	.buyersguide .section.module-quickstartguide { padding-bottom: 60px; }
 	.module-quickstartguide .row { padding-bottom: 25px; }

@@ -255,6 +255,7 @@
     ================================================== -->
 
     <?php require('../shared/footer.html');?>
+    <?php require('../shared/modals.html');?>
 
 
     

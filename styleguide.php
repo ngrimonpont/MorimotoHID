@@ -1220,32 +1220,38 @@
 
 						<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 						    <div class="modal-dialog">
-						      	<div class="modal-content">
-						        	<div class="modal-header">
-						          		<div type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</div>
-						          		<h4 class="modal-title" id="myModalLabel">Modal Heading</h4>
-						        	</div>
-						        	<div class="modal-body">
-						          		<h4>Text in a modal</h4>
-						          		<p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula.</p>
-						          		<h4>Popover in a modal</h4>
-						          		<p>This <a href="#" role="button" class="btn btn-large popover-test" title="A Title" data-content="And here's some amazing content. It's very engaging. right?">button</a> should trigger a popover on click.</p>
-						          		<h4>Tooltips in a modal</h4>
-						          		<p><a href="#" class="tooltip-test" title="Tooltip">This link</a> and <a href="#" class="tooltip-test" title="Tooltip">that link</a> should have tooltips on hover.</p>
-
-						          		<hr>
-
-						          		<h4>Overflowing text to show scroll behavior</h4>
-						          		<p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-						          		<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
-						          		<p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
-						          		<p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-						          		<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
-						          		<p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
-						          		<p>Cras mattis consectetur purus sit amet fermentum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
-						          		<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.</p>
-						          		<p>Aenean lacinia bibendum nulla sed consectetur. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec sed odio dui. Donec ullamcorper nulla non metus auctor fringilla.</p>
-						        	</div>
+						    	      	<div class="modal-content">
+						    	        	<div class="modal-header">
+						    	          		<div type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</div>
+						    	          		<h3 class="modal-title text-gray" id="myModalLabel">Login/Register</h3>
+						    	        	</div>
+						    	        	<div class="modal-body">
+						    	          		<h5>To continue, please create a new account or login with an existing username and password.</h5>
+						    	          		<p class="small">With an account, we'll save your contact and shipping information so that you can take advantage of a faster and easier online shopping experience. <em>Retrofitting is addicting, you'll see. Sign up today!</em></p>
+						    	        		<hr>
+						    	        		<h4 class="text-tertiary">Returning Customer</h4>
+						    	          		<form class="form-horizontal">
+						                            <fieldset>
+						                                <div class="form-group">
+						                                    <div class="col-sm-6">
+						                                        <input type="text" class="form-control" id="inputDefault" value="Email">
+						                                    </div>
+						                                    <div class="col-sm-6">
+						                                        <input type="text" class="form-control" id="inputDefault" value="Password">
+						                                    </div>
+						                                    <div class="col-sm-12">
+						                                    	<div class="small pull-right"><a href="/client/TRS/MorimotoHID/utility/account.php">Forgot Password</a></div>
+						                                   	</div>
+						                                </div>
+						                                <hr>
+						                                <div class="form-group">
+						                                    <div class="col-sm-12">
+						                                        <div class="btn btn-large pull-right"><input class="submit-input" type="submit" value=""/><span class="submit-input-text">Login</span></div>
+						                                    </div>
+						                                </div>
+						                            </fieldset>
+						                        </form>
+						                    </div>
 						        	<div class="modal-footer">
 						          		<div type="button" class="btn btn-large" data-dismiss="modal">Close</div>
 						          		<div type="button" class="btn btn-primary">Save changes</div>
@@ -1296,6 +1302,7 @@
 
 
 	<?php require('shared/footer.html');?>
+	<?php require('shared/modals.html');?>
 	
 
 	<!-- Javascript [secondary]

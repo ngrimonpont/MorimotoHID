@@ -37,7 +37,7 @@
 
 </head>
 
-<body class="utility account account-orderdetails">
+<body class="utility cart">
 
     <!-- Header
     ================================================== -->
@@ -65,6 +65,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-md-4">
+                        <!-- If User is logged in -->
                         <div class="panelWrap panel-product hidden-xs hidden-sm">
                             <div class="panel panel-default">
                                 <div class="panel-heading">
@@ -101,56 +102,6 @@
                                 </div>
                             </div>
                         </div>
-
-                        <!-- <hr>
-                        <h6 class="text-weight900pluto"><a href="/client/TRS/MorimotoHID/utility/account.php">&lt; Continue Shopping</a></h6> -->
-
-                        <!-- <div class="row">
-                            <div class="col-xs-12">
-                                <div class="row">
-                                    <div class="col-xs-12">
-                                        <h3 class="text-gray">Promotion Code:</h3>
-                                    
-                                        <div class="section description">
-                                            <div class="col-xs-12">
-                                                <div class="row">
-                                                    
-                                                </div>
-                                            </div>
-                                            
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <hr>
-                        
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <div class="row">
-                                    <div class="col-xs-12">
-                                        <h3 class="text-gray">Order Summary:</h3>
-                                    
-                                        <div class="section description">
-                                            <div class="col-xs-12">
-                                                <div class="row">
-                                                    <h4 class="col-xs-8">Subtotal:</h4>
-                                                    <h4 class="col-xs-4 text-right">$399.99</h4>
-                                                </div>
-                                            </div>
-                                            <div class="col-xs-12">
-                                                <hr>
-                                                <div class="row">
-                                                    <h3 class="col-xs-6 text-tertiary">Total:</h3>
-                                                    <h3 class="col-xs-6 text-right text-tertiary">$399.99</h3>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
                        
                         <div class="row">
                             <div class="col-xs-12">
@@ -174,7 +125,8 @@
                                     </div>
                                 </div>
                                 <hr>
-                                <a class="btn-group pull-right" href="#">
+                                <!-- If User is not logged in launch login modal -->
+                                <a class="btn-group pull-right" href="/client/TRS/MorimotoHID/utility/checkout.php">
                                     <div type="button" class="btn btn-primary-icon"><span class="icon icon-secure icon-withText"></span></div>
                                     <div type="button" class="btn btn-primary">Secure Checkout</div>
                                 </a>

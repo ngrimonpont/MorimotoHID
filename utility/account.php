@@ -132,7 +132,7 @@
                                         </div>
                                     </div>
                                     <hr>
-                                    <h6 class="text-right text-weight900pluto"><a href="/client/TRS/MorimotoHID/utility/account-addressbook.php">Manage Addresses></a></h6>
+                                    <h6 class="text-right text-weight900pluto"><a href="/client/TRS/MorimotoHID/utility/account-addressbook.php">Manage Addresses &gt;</a></h6>
                                 </div>
                             </div>
                         </div>
@@ -270,7 +270,7 @@
                                         </div>
                                     </div>
                                     <hr>
-                                    <h6 class="text-right text-weight900pluto"><a href="#">View All Orders></a></h6>
+                                    <h6 class="text-right text-weight900pluto"><a href="#">View All Orders &gt;</a></h6>
                                 </div>
                             </div>
                         </div> 

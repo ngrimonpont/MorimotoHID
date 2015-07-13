@@ -144,38 +144,6 @@
                             <h3 class="text-gray">Order #: 100057922<span class="order-number"></span></h3>
                             
                             <div class="row">
-                                <!-- <div class="col-xs-12">
-                                    <div class="panelWrap">
-                                        <div class="panel panel-success">
-                                            <div class="panel-heading">
-                                                <h4 class="text-white">Order Quick Tools</h4>
-                                            </div>
-                                            <div class="panel-body">
-                                                <div class="row">
-                                                    <p class="col-sm-3 small lead text-uppercase">Order Date:</p>
-                                                    <p class="col-sm-3 small"><span class="order-date">6/1/2015</span></p>
-                                                    <p class="col-sm-3 small lead text-uppercase">Status:</p>
-                                                    <p class="col-sm-3 small"><span class="order-status">Complete</span></p>
-                                                </div>
-                                            </div>
-                                            <div class="panel-body panel-footer">
-                                                <div class="row">
-                                                    <p class="col-sm-3 small lead text-uppercase">Tracking #:</p>
-                                                    <p class="col-sm-9 small"><a href="#"><span class="order-tracking">9400111988223468835993</span></a></p>
-                                                </div>
-                                            </div>
-                                            <div class="panel-body">
-                                                <div class="row">
-                                                    <p class="col-sm-3 small lead text-uppercase"><a href="#"><span class="text-tertiary">&gt; Reorder</span></a></p>
-                                                    <p class="col-sm-3 small lead text-uppercase"><a href="#"><span class="text-tertiary">&gt; Print Order</span></a></p>
-                                                    <p class="col-sm-3 small lead text-uppercase"><a href="#"><span class="text-tertiary">&gt; Invoices</span></a></p>
-                                                    <p class="col-sm-3 small lead text-uppercase"><a href="#"><span class="text-tertiary">&gt; Shipments</span></a></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
-
                                 <div class="col-xs-12">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-6">
@@ -348,26 +316,26 @@
                                     <div class="row">
                                         <div class="col-xs-12">
                                             <hr>
-                                            <h3 class="text-gray">Order Total:</h3>
+                                            <h3 class="text-gray">Order Summary:</h3>
                                         
                                         <div class="section description">
                                             <div class="col-xs-12 col-md-8 pull-right">
                                                 <div class="row">
                                                     <h4 class="col-xs-8">Subtotal:</h4>
-                                                    <h4 class="pull-right">$399.99</h4>
+                                                    <h4 class="col-xs-4 text-right">$399.99</h4>
                                                 </div>
                                             </div>
                                             <div class="col-xs-12 col-md-8 pull-right">
                                                 <div class="row">
                                                     <h4 class="col-xs-8">Shipping &amp; Handling:</h4>
-                                                    <h4 class="pull-right">$3.04</h4>
+                                                    <h4 class="col-xs-4 text-right">$3.04</h4>
                                                 </div>
                                             </div>
                                             <div class="col-xs-12 col-md-8 pull-right">
                                                 <hr>
                                                 <div class="row">
                                                     <h3 class="col-xs-8 text-tertiary">Total:</h3>
-                                                    <h3 class="pull-right text-tertiary">$403.03</h3>
+                                                    <h3 class="col-xs-4 text-right text-tertiary">$403.03</h3>
                                                 </div>
                                             </div>
                                         </div>

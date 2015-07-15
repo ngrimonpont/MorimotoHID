@@ -149,14 +149,14 @@
                                             </div>
                                             <div class="panel-body">
                                                 <div class="row">
-                                                    <p class="col-sm-6 small lead text-uppercase">Card Number:</p>
-                                                    <p class="col-sm-6 small"><span class="credit-number">XXXX-XXXX-XXXX-3591</span></p>
+                                                    <p class="col-sm-6 small"><span class="lead text-uppercase">Card Number:</span></br><span class="credit-number">XXXX-XXXX-XXXX-3591</span></p>
+                                                    <p class="col-sm-6 small"><a href="#">Delete Card</a></p>
                                                 </div>
                                             </div>
                                             <div class="panel-body panel-footer">
                                                 <div class="row">
-                                                    <p class="col-sm-6 small lead text-uppercase">Last Used:</p>
-                                                    <p class="col-sm-6 small"><span class="credit-used">4/30/2015</span></p>
+                                                    <p class="col-sm-6 small"><span class="lead text-uppercase">Last Used:</span></br><span class="credit-used">4/30/2015</span></p>
+                                                    <p class="col-sm-6 small"><a href="#">Delete Card</a></p>
                                                 </div>
                                             </div>
                                         </div>

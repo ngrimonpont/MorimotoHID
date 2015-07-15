@@ -55,7 +55,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12">
-                        <h4 class="text-golddark">Lorem Ipsum</h4>
+                        <h4 class="text-golddark">Year, Make, and Model</h4>
                         <h1>Buyers Guide</h1>
                         <p class="lead text-graylight text-uppercase text-weight700pluto">Morimoto’s selection of high performance automotive lighting products includes fitments for nearly every year, make, and model on the road today. From forward lighting to signal and interior lighting, we likely offer more than one compatible option for your application. Whether you simply need a replacement part or an upgrade, start here.</p>
                     </div>

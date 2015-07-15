@@ -90,7 +90,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Lighting Redefined</h5>
                         <h2>About Morimoto</h2>
                         <p class="large">We redefine the automotive aftermarket for high intensity lighting. Taking the poorly lit back roads has never been more exciting with Morimoto powered headlamps.</p>
                     </div>  
@@ -119,7 +119,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Concept to Completion</h5>
                         <h2>Product Development</h2>
                         <p class="large">When our existing product line doesn’t meet a certain need, it is our pleasure to work with our clients for all of their OEM and ODM needs. If you are serious about what you do and want to stand out in your niche, our team here at Morimoto will work with you as a clear and cohesive team to help make your idea to reality. Our success relies on yours, so from the concept phase to prototyping to mass production, we will put forth our best efforts on your project. We promise to do what it takes to bring the product to market swiftly, without compromise, and while delivering value through reasonable fixed and variable production costs.</p>
                     </div>
@@ -166,7 +166,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>At Your Service</h5>
                         <h2>Capabilities</h2>
                     </div>  
                 </div>
@@ -308,7 +308,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Eco-centric</h5>
                         <h2>Sustainability</h2>
                         <p class="large">While our main focus is on improving vision at night, our corporate vision at Morimoto Lighting also incorporates standards focused on sustainability. From manufacturing, waste management, to R&amp;D, we are playing a role to preserve and protect our environment.</p>
                     </div>

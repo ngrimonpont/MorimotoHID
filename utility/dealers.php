@@ -86,7 +86,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Morimoto Network</h5>
                         <h2>Become a Dealer</h2>
                         <p class="large">Morimoto is a manufacturer whose focus isn’t selling to the end-user. Our master distributors are focused on catering to end-users and their own wholesale business domestically. Becoming an Authorized Morimoto Dealer means you enjoy the following benefits. </p>
                     </div>  
@@ -187,7 +187,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Morimoto Map</h5>
                         <h2>Locate a Dealer</h2>
                         <p class="large">If you’re part of the automotive industry or simply a discerning end-user; we recommend contacting one of our Master Distributors to purchase Morimoto Lighting products. With an authorized dealer on almost every continent, our distribution network reaches all corners of the world and is continues to expand.</p>
                     </div>
@@ -218,7 +218,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Morimoto Official</h5>
                         <h2>Product Authenticity</h2>
                         <p class="large">As the most sought after brand in the automotive lighting aftermarket; Morimoto products have become a target for counterfeiters. Imitations degrade the reputation that our organization has worked hard to develop due to the sharp contrast in both quality and performance. That's why we work closely with dealers worldwide who have earned the privilege to display the Morimoto Authorized Dealer badge.</p>
                     </div>  

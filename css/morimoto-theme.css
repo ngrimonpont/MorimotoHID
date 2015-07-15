@@ -471,6 +471,8 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 	.dropdown-ledlighting .dropdown-menu-ext { background-image: url(../img/vector-ledlighting.svg); }
 	.dropdown-housings .dropdown-menu-ext { background-image: url(../img/vector-housing.svg); }
 	.dropdown-clearlenses .dropdown-menu-ext { background-image: url(../img/vector-clearlens.svg); }
+	.dropdown-offroad .dropdown-menu-ext { background-image: url(../img/vector-offroad.svg); }
+	.dropdown-hidsystems .dropdown-menu-ext { background-image: url(../img/vector-hidsystems.svg); }
 }
 @media (min-width:992px) {
 	.dropdown-menu { padding-top: 114px; }
@@ -485,6 +487,8 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 	.productcategory.ledlighting .intro { background-image: url(../img/vector-ledlighting.svg); }
 	.productcategory.housings .intro { background-image: url(../img/vector-housing.svg); }
 	.productcategory.clearlenses .intro { background-image: url(../img/vector-clearlens.svg); }
+	.productcategory.offroad .intro { background-image: url(../img/vector-offroad.svg); }
+	.productcategory.hidsystems .intro { background-image: url(../img/vector-hidsystems.svg); }
 }
 @media (max-device-width:668px) and (orientation:landscape) {
   .nav > li { width: 50%; float: left; }

@@ -529,6 +529,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 .panel-heading > .dropdown .dropdown-toggle { color: inherit; }
 .panel-title { margin-top: 0; margin-bottom: 0; font-size: 16px; color: inherit; }
 .panel-title > a { color: inherit; }
+.panel-title a .pull-right { text-decoration: underline; }
 .panel-footer { background-color: #f1f1f1; border: none; }
 .panel > .list-group { margin-bottom: 0; }
 .panel > .list-group .list-group-item { border-width: 1px 0; border-radius: 0; }

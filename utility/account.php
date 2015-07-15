@@ -145,18 +145,20 @@
                                     <div class="panelWrap">
                                         <div class="panel panel-default">
                                             <div class="panel-heading">
-                                                <h4><span class="credit-name">Discover</span></h4>
+                                                <h3 class="panel-title"><span class="credit-name">American Express</span><a href="#"><span class="pull-right">Delete</span></a></h3>
+                                                <!-- <h4><span class="credit-name">American Express</span> <span class="small pull-right"><a href="#">Delete</a></span></h4> -->
+
                                             </div>
                                             <div class="panel-body">
                                                 <div class="row">
-                                                    <p class="col-sm-6 small"><span class="lead text-uppercase">Card Number:</span></br><span class="credit-number">XXXX-XXXX-XXXX-3591</span></p>
-                                                    <p class="col-sm-6 small"><a href="#">Delete Card</a></p>
+                                                    <p class="col-sm-6 small lead text-uppercase">Card Number:</p>
+                                                    <p class="col-sm-6 small"><span class="credit-number">XXXX-XXXX-XXXX-3591</span></p>
                                                 </div>
                                             </div>
                                             <div class="panel-body panel-footer">
                                                 <div class="row">
-                                                    <p class="col-sm-6 small"><span class="lead text-uppercase">Last Used:</span></br><span class="credit-used">4/30/2015</span></p>
-                                                    <p class="col-sm-6 small"><a href="#">Delete Card</a></p>
+                                                    <p class="col-sm-6 small lead text-uppercase">Last Used:</p>
+                                                    <p class="col-sm-6 small"><span class="credit-used">4/30/2015</span></p>
                                                 </div>
                                             </div>
                                         </div>

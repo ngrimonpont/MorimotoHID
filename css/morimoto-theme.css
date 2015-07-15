@@ -61,7 +61,7 @@ body.utility { background: #eee; background-image: url(../img/bg-lightstone.jpg)
 
 hr { border-top: 1px solid #ccc; width: 100%; float: left; }
 .clear { clear: both; display: block; font-size: 0; height: 0; line-height: 0; width: 100%; }
-
+.disabled { pointer-events: none; cursor: not-allowed; filter: alpha(opacity=65); -webkit-box-shadow: none; box-shadow: none; opacity: .65; }
 
 /* Typography & Images
 ======================================================================================================================================================
@@ -168,6 +168,7 @@ a:hover, a:focus { text-decoration: none; color: #e2c675; }
 ====================================================================================================================================================== */
 
 fieldset { -webkit-margin-start: 0; -webkit-margin-end: 0; -webkit-padding-before: 0; -webkit-padding-start: 0; -webkit-padding-end: 0; -webkit-padding-after: 0; }
+input[type="radio"], input[type="checkbox"] { margin: 3px 0 0; }
 .footer .form-horizontal { padding-top: 20px; }
 .form-horizontal .form-group { margin-right: -5px; margin-left: -5px; margin-bottom: 10px; }
 .form-group .col-xs-6, .form-group .col-sm-1, .form-group .col-sm-3, .form-group .col-sm-4, .form-group .col-sm-6, .form-group .col-md-6, .form-group .col-lg-6, .form-group .col-xs-12, .form-group .col-sm-12, .form-group .col-md-12, .form-group .col-lg-12 { padding-right: 5px; padding-left: 5px; }
@@ -204,6 +205,14 @@ textarea.input-lg, textarea.form-group-lg .form-control, select[multiple].input-
 .input-group-btn-vertical i { position: absolute; top: 0; left: 4px; }
 .input-group-btn-vertical .btn-large { font-size: 18px; letter-spacing: 0; color: #939598; padding: 2px 6px;  }
 .input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group { height: 52px; margin-left: -2px; }
+
+
+.reveal-if-active { opacity: 0; max-height: 0; overflow: hidden; -webkit-transition: all 0.3s; transition: all 0.3s; -ms-transform: scale(0.8); -webkit-transform: scale(0.8); transform: scale(0.8); }
+input[type="radio"]:checked ~ .reveal-if-active, input[type="checkbox"]:checked ~ .reveal-if-active { opacity: 1; max-height: 280px; overflow: visible; padding-top: 5px; -ms-transform: scale(1); -webkit-transform: scale(1); transform: scale(1); }
+.checkout .radio label, .checkout .checkbox label { width: 100%; }
+
+.cartProduct-qtyCTA .cartQtySubmit { float: left; color: #c6a571; cursor: pointer; border-radius: 0; border: none; background-color: transparent; -webkit-appearance: none; }
+
 
 
 /* Buttons & SVG
@@ -289,6 +298,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 .icon-arrowLfff { background-image: url(../img/icon-arrowLfff.svg); }
 .icon-arrowRfff { background-image: url(../img/icon-arrowRfff.svg); }
 .icon-cart { background-image: url(../img/icon-cart.svg); }
+.icon-confirm { background-image: url(../img/icon-confirm.svg); }
 .icon-download { background-image: url(../img/icon-download.svg); }
 .icon-explore { background-image: url(../img/icon-explore.svg); }
 .icon-facebook { background-image: url(../img/icon-facebook.svg); }

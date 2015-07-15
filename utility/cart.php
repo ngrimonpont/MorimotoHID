@@ -154,8 +154,8 @@
                                                                 <div class="col-sm-4">
                                                                     <input type="text" class="form-control" id="inputQTY" placeholder="1">
                                                                 </div>
-                                                                <p class="col-sm-3 small">
-                                                                    <a href="#">Update</a></br>
+                                                                <p class="col-sm-3 small cartProduct-qtyCTA">
+                                                                    <button type="submit" name="update_cart_action" value="update_qty" title="Update Shopping Cart" class="cartQtySubmit">Update</button>
                                                                     <a href="#">Remove</a>
                                                                 </p>
                                                             </div>
@@ -201,8 +201,8 @@
                                                                 <div class="col-sm-4">
                                                                     <input type="text" class="form-control" id="inputQTY" placeholder="1">
                                                                 </div>
-                                                                <p class="col-sm-3 small">
-                                                                    <a href="#">Update</a></br>
+                                                                <p class="col-sm-3 small cartProduct-qtyCTA">
+                                                                    <button type="submit" name="update_cart_action" value="update_qty" title="Update Shopping Cart" class="cartQtySubmit">Update</button>
                                                                     <a href="#">Remove</a>
                                                                 </p>
                                                             </div>

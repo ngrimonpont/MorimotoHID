@@ -138,9 +138,14 @@
                                                                     <div class="reveal-if-active">
                                                                         <div class="form-group">
                                                                             <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Full Name">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="First Name">
                                                                             </div>
                                                                             <div class="col-sm-6">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Last Name">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <div class="col-sm-12">
                                                                                 <input type="text" class="form-control" id="inputDefault" value="Company Name">
                                                                             </div>
                                                                         </div>
@@ -242,9 +247,14 @@
                                                                     <div class="reveal-if-active">
                                                                         <div class="form-group">
                                                                             <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Full Name">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="First Name">
                                                                             </div>
                                                                             <div class="col-sm-6">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Last Name">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <div class="col-sm-12">
                                                                                 <input type="text" class="form-control" id="inputDefault" value="Company Name">
                                                                             </div>
                                                                         </div>

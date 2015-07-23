@@ -329,7 +329,7 @@
                                                 <fieldset>
                                                     <div class="form-group">
                                                         <div class="col-xs-12">
-                                                        <span class="small lead text-uppercase">Ship to Billing Address</span>
+                                                        <span class="small lead text-uppercase">Select a Shipping Method</span>
                                                             <select class="form-control drop" id="select">
                                                                 <option value="">Flat Rate ... $5.00</option>
                                                                 <option value="">USPS ... First Class Mail - Package ... $24.63</option>
@@ -372,12 +372,6 @@
                                                                 <label>
                                                                     <input type="radio" name="optionsRadios" id="" value="option1" checked=""><span class="small lead text-uppercase">Credit Card</span>
                                                                     <div class="reveal-if-active">
-                                                                        <div class="form-group">
-                                                                            <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Name on Card">
-                                                                            </div>
-                                                                            
-                                                                        </div>
                                                                         <div class="form-group">
                                                                             <div class="col-sm-6">
                                                                                 <select class="form-control drop" id="select">

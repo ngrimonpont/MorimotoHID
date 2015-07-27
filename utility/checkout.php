@@ -313,6 +313,7 @@
                                                     <div class="form-group">
                                                         <div class="col-sm-12">
                                                             <div type="button" class="btn btn-primary pull-right">Continue</div>
+                                                            <h6 class="text-weight900pluto"><a href="#">&lt; Back</a></h6>
                                                         </div>
                                                     </div>
                                                 </fieldset>
@@ -352,6 +353,7 @@
                                                     <div class="form-group">
                                                         <div class="col-sm-12">
                                                             <div type="button" class="btn btn-primary pull-right">Continue</div>
+                                                            <h6 class="text-weight900pluto"><a href="#">&lt; Back</a></h6>
                                                         </div>
                                                     </div>
                                                 </fieldset>
@@ -444,6 +446,7 @@
                                                     <div class="form-group">
                                                         <div class="col-sm-12">
                                                             <div type="button" class="btn btn-primary pull-right">Continue</div>
+                                                            <h6 class="text-weight900pluto"><a href="#">&lt; Back</a></h6>
                                                         </div>
                                                     </div>
                                                 </fieldset>

@@ -54,7 +54,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>Lorem Ipsum</h5>
+                        <h5>Finalize Order</h5>
                         <h2>Checkout</h2>
                     </div>  
                 </div>

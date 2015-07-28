@@ -282,7 +282,7 @@
                                                                         </div>
                                                                         <div class="form-group">
                                                                             <div class="col-sm-6">
-                                                                                <select class="form-control drop" id="select">
+                                                                                <select class="validate-select" id="select">
                                                                                     <option value="">Country</option>
                                                                                     <option value="#">#</option>
                                                                                     <option value="#">#</option>

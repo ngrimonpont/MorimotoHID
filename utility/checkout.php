@@ -184,10 +184,15 @@
                                                                         <hr class="aligncenter">
                                                                         <div class="form-group">
                                                                             <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Phone">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Email Address">
                                                                             </div>
                                                                             <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Email Address">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Confirm Email Address">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <div class="col-sm-6">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Phone">
                                                                             </div>
                                                                         </div>
                                                                         <div class="checkbox">
@@ -293,10 +298,15 @@
                                                                         <hr class="aligncenter">
                                                                         <div class="form-group">
                                                                             <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Phone">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Email Address">
                                                                             </div>
                                                                             <div class="col-sm-6">
-                                                                                <input type="text" class="form-control" id="inputDefault" value="Email Address">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Confirm Email Address">
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="form-group">
+                                                                            <div class="col-sm-6">
+                                                                                <input type="text" class="form-control" id="inputDefault" value="Phone">
                                                                             </div>
                                                                         </div>
                                                                         <div class="checkbox">

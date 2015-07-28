@@ -212,7 +212,7 @@
                                     </div>
                                 </div>
 
-                                <div class="panelWrap disabled">
+                                <div class="panelWrap">
                                     <div class="panel panel-default">
                                         <div class="panel-heading"><h4>Shipping Address</h4></div>
                                         <div class="panel-body">
@@ -322,7 +322,7 @@
                                     </div>
                                 </div>
 
-                                <div class="panelWrap disabled">
+                                <div class="panelWrap">
                                     <div class="panel panel-default">
                                         <div class="panel-heading"><h4>Shipping Method</h4></div>
                                         <div class="panel-body">
@@ -362,7 +362,7 @@
                                     </div>
                                 </div>
 
-                                <div class="panelWrap disabled">
+                                <div class="panelWrap">
                                     <div class="panel panel-default">
                                         <div class="panel-heading"><h4>Payment Information</h4></div>
                                         <div class="panel-body">
@@ -370,6 +370,11 @@
                                                 <fieldset>
                                                     <div class="form-group">
                                                         <div class="col-xs-12">
+                                                            <div class="checkbox">
+                                                                <label>
+                                                                    <input type="checkbox"><span class="small lead text-uppercase">Internal Credit</span>
+                                                                </label>
+                                                            </div>
                                                             <div class="radio">
                                                                 <label>
                                                                     <input type="radio" name="optionsRadios" id="" value="option1" checked=""><span class="small lead text-uppercase">Credit Card</span>
@@ -437,6 +442,7 @@
                                                                     <input type="radio" name="optionsRadios" id="" value="option2"><span class="small lead text-uppercase">PayPal</span>
                                                                     <div class="reveal-if-active">
                                                                     <!-- PayPal Logo --><table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/webapps/mpp/paypal-popup" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/bdg_now_accepting_pp_2line_w.png" border="0" alt="Now accepting PayPal"></a></td></tr></table><!-- PayPal Logo -->
+                                                                    <span class="small">*You will be redirected to the PayPal website</span>
                                                                     </div>    
                                                                 </label>
                                                             </div>
@@ -567,7 +573,7 @@
                                     <div class="col-xs-12">
                                         <div class="section description">
                                             <hr>
-                                            <h6 class="text-weight900pluto"><a href="/client/TRS/MorimotoHID/utility/cart.php">&lt; Forgot an Item? Edit Your Cart</a></h6>
+                                            <h6 class="text-weight900pluto" style="margin-bottom:10px"><a href="/client/TRS/MorimotoHID/utility/cart.php">&lt; Forgot an Item? Edit Your Cart</a></h6>
                                             <a class="btn-group pull-right" href="#">
                                                 <div type="button" class="btn btn-primary-icon"><span class="icon icon-confirm icon-withText"></span></div>
                                                 <div type="button" class="btn btn-primary">Confirm Order</div>

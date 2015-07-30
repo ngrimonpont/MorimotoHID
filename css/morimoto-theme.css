@@ -683,7 +683,7 @@ a .thumbnail:hover, a .thumbnail:focus, a .thumbnail.active { border-color: #E2C
 a.badge:hover, a.badge:focus { color: #fff; text-decoration: none; cursor: pointer; }
 .navbar-utility .badge { position: absolute; top: 8px; right: -8px; }
 
-.alert, .messages { padding: 5px; margin-bottom: 0; border: none; border-radius: 0; text-align: center; }
+.alert, .messages { padding: 0; margin-bottom: 0; border: none; border-radius: 0; text-align: center; }
 .alert .alert-link, .messages a { font-weight: bold; text-decoration: underline; color: inherit; }
 .messages li { list-style: none; }
 .messages span, .messages span a { font-family: 'PlutoSansRegular', sans-serif; color: #fff; font-size: 11px; text-transform: uppercase; }

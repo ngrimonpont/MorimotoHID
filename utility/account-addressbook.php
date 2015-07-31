@@ -9,7 +9,7 @@
 	<!-- Basic Page Needs
     ================================================== -->
 	<meta charset="utf-8">
-	<title>My Account Address Book • MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
+	<title>My Morimoto Address Book • MORIMOTO • High Quality HID Projectors, Ballasts, and Bulbs</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="" />
 	<meta name="author" content="SHIMITS Design/Development">
@@ -54,7 +54,7 @@
             <div class="container">
                 <div class="row">
                     <div class="lead col-xs-12">
-                        <h5>My Account</h5>
+                        <h5>My Morimoto</h5>
                         <h2>My Address Book</h2>
                     </div>  
                 </div>

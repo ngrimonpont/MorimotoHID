@@ -63,7 +63,7 @@
 
                     <div class="col-xs-12">
                         <h4 class="text-white">Morimoto produces powerful lights. Our projectors put the power down.</h4> 
-                        <a type="button" class="btn btn-large" href="#">Projectors</a>
+                        <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>Projectors</a>
                     </div>  
    
                     <a name="down"></a>
@@ -82,7 +82,7 @@
 
                     <div class="col-xs-12">
                         <h4 class="text-white">Morimoto understands the equal importance of both seeing and being seen.</h4> 
-                        <a type="button" class="btn btn-large" href="#">Applications</a>
+                        <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">View </span>Applications</a>
                     </div>  
    
                     <a name="down"></a>
@@ -101,7 +101,7 @@
 
                     <div class="col-xs-12">
                         <h4 class="text-white">OEM Grade XB HID technology by Morimoto outshines the competition.</h4> 
-                        <a type="button" class="btn btn-large" href="#">HID Bulbs</a>
+                        <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>HID Bulbs</a>
                     </div>  
    
                     <a name="down"></a>

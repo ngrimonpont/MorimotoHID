@@ -568,7 +568,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 .panel-default > .panel-footer + .panel-collapse > .panel-body { border-bottom-color: #ddd; }
 .panel-default .ring-spinner-wrap { float: right; width: 35px; }
 .panel-default .ring-spinner-wrap img { width: 100%; height: auto; }
-.icon-ring-spinner { width: 35px; height: 35px; background-image: url(../img/ring-spinner.svg); float: left; position: relative; display: inline-block; background-position: center center; background-repeat: no-repeat; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; background-size: 100% auto; }
+.icon-ring-spinner { width: 35px; height: 35px; background-image: url(../img/ring-spinner.svg); float: right; position: relative; margin-bottom: 10px; display: inline-block; background-position: center center; background-repeat: no-repeat; -webkit-background-size: 100% auto; -moz-background-size: 100% auto; background-size: 100% auto; }
 
 
 .panel-product .panel-heading { background-color: rgba(25, 25, 25, .75); padding: 15px 15px 20px 15px; }

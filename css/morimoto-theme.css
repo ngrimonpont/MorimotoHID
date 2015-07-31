@@ -715,6 +715,8 @@ a.badge:hover, a.badge:focus { color: #fff; text-decoration: none; cursor: point
 
 
 .popover { border: 1px solid #ccc; }
+.popover-title { padding: 5px 14px; color: #423f3f; background-color: #f1f1f1; border-bottom: 1px solid #ddd; }
+.popover-content { font-size: 85%; }
 .popover.top > .arrow { border-top-color: #ccc; }
 .popover.top > .arrow:after { border-top-color: #fff; }
 .popover.right > .arrow { border-right-color: #ccc; }

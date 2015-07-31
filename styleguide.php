@@ -1271,7 +1271,7 @@
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-products-35w.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
                         <div class="col-xs-4 col-sm-2 col-md-2">  
-                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-products-55w.svg" class="img-responsive" alt="" border="none"></div>
+                            <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-products-50w.svg" class="img-responsive" alt="" border="none"></div>
                         </div>  
                         <div class="col-xs-4 col-sm-2 col-md-2">  
                             <div type="button" class="btn btn-lg btn-empty-outline" data-container="body" data-toggle="popover" data-placement="top" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."><img src="img/icon-products-5500k.svg" class="img-responsive" alt="" border="none"></div>

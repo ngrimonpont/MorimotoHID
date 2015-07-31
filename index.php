@@ -85,11 +85,11 @@
                         <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">View </span>Applications</a>
                     </div>  
    
-                    <a id="down"></a>
+                    <a id="down2"></a>
 
                 </div>
             </div>
-            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down"></a>
+            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down2"></a>
         </div>
 
         <div class="intro intro-feature3">
@@ -104,11 +104,11 @@
                         <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>HID Bulbs</a>
                     </div>  
    
-                    <a id="down"></a>
+                    <a id="down3"></a>
 
                 </div>
             </div>
-            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down"></a>
+            <a type="button" class="btn btn-lg btn-empty icon icon-arrowD2xfff" href="#down3"></a>
         </div>
 
         <div class="section module-callout">

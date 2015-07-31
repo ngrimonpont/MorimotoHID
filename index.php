@@ -66,7 +66,7 @@
                         <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>Projectors</a>
                     </div>  
    
-                    <a name="down"></a>
+                    <a id="down"></a>
 
                 </div>
             </div>
@@ -85,7 +85,7 @@
                         <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">View </span>Applications</a>
                     </div>  
    
-                    <a name="down"></a>
+                    <a id="down"></a>
 
                 </div>
             </div>
@@ -104,7 +104,7 @@
                         <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>HID Bulbs</a>
                     </div>  
    
-                    <a name="down"></a>
+                    <a id="down"></a>
 
                 </div>
             </div>

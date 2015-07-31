@@ -109,10 +109,7 @@
     <script src="js/jquery.plugin.min.js"></script>
     <script src="js/jquery.countdown.min.js"></script>
     <script src="js/themecountdown.js"></script>
-    
 
-    <!-- Google Analytics-->
-    
 
     <!-- End Document
     ================================================== -->

@@ -62,10 +62,10 @@
                         <div class="col-xs-12 col-lg-8 col-lg-offset-2">
                             <div class="btn-group btn-group-justified" role="group">
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link" href="#becomeadealer">Become a Dealer</a>
+                                    <a type="button" class="btn btn-link" href="#locateadealer">Locate a Dealer</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link" href="#locateadealer">Locate a Dealer</a>
+                                <a type="button" class="btn btn-link" href="#becomeadealer">Become a Dealer</a>
                                 </div>
                                 <div class="btn-group" role="group">
                                     <a type="button" class="btn btn-link" href="#authenticity">Authenticity</a>
@@ -74,6 +74,36 @@
                         </div> 
                     </div>  
                 </div>         
+            </div>
+        </div>
+
+
+        <a class="anchor" id="locateadealer"></a>
+        <div class="container"><hr></div>
+
+        <div class="section description">
+            <div class="container">
+                <div class="row">
+                    <div class="lead col-xs-12">
+                        <h5>Morimoto Map</h5>
+                        <h2>Locate a Dealer</h2>
+                        <p class="large">If you’re part of the automotive industry or simply a discerning end-user; we recommend contacting one of our Master Distributors to purchase Morimoto Lighting products. With an authorized dealer on almost every continent, our distribution network reaches all corners of the world and is continues to expand.</p>
+                    </div>
+                
+                    <div class="col-xs-12">
+                        <p>Morimoto’s Master Dealers are held to rigorous standards. Their duty is to deliver the quality service that matches the products by offering everything from product recommendations, assistance with installation, and post sales support. Many apply for such status, few are granted the privilege. </p>
+                    </div>
+                
+                    <div class="col-xs-12">
+                        <div class="thumbnailWrap">
+                            <div class="thumbnail">
+                                <div class="thumbnail-image dealersMapWrap">
+                                    <div class="dealersMap" id="dealersMap"></div> 
+                                </div>
+                            </div>    
+                        </div>
+                    </div> 
+                </div>
             </div>
         </div>
 
@@ -170,35 +200,6 @@
                             </div>
                         </div>  
                     </div>
-                </div>
-            </div>
-        </div>
-
-        <a class="anchor" id="locateadealer"></a>
-        <div class="container"><hr></div>
-
-        <div class="section description">
-            <div class="container">
-                <div class="row">
-                    <div class="lead col-xs-12">
-                        <h5>Morimoto Map</h5>
-                        <h2>Locate a Dealer</h2>
-                        <p class="large">If you’re part of the automotive industry or simply a discerning end-user; we recommend contacting one of our Master Distributors to purchase Morimoto Lighting products. With an authorized dealer on almost every continent, our distribution network reaches all corners of the world and is continues to expand.</p>
-                    </div>
-                
-                    <div class="col-xs-12">
-                        <p>Morimoto’s Master Dealers are held to rigorous standards. Their duty is to deliver the quality service that matches the products by offering everything from product recommendations, assistance with installation, and post sales support. Many apply for such status, few are granted the privilege. </p>
-                    </div>
-                
-                    <div class="col-xs-12">
-                        <div class="thumbnailWrap">
-                            <div class="thumbnail">
-                                <div class="thumbnail-image dealersMapWrap">
-                                    <div class="dealersMap" id="dealersMap"></div> 
-                                </div>
-                            </div>    
-                        </div>
-                    </div> 
                 </div>
             </div>
         </div>

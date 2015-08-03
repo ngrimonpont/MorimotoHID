@@ -588,6 +588,17 @@
                                                 <div type="button" class="btn btn-primary-icon"><span class="icon icon-confirm icon-withText"></span></div>
                                                 <div type="button" class="btn btn-primary">Confirm Order</div>
                                             </a>
+                                            
+                                            <div class="panelWrap confirmOrder">
+                                                <div class="panel panel-default">
+                                                    <div class="panel-body">
+                                                    <div id="review-please-wait" class="ring-spinner-wrap">
+                                                        <img src="http://boot.morimotohid.com/skin/frontend/morimoto/default/img/ring-spinner.svg" alt="Submitting order information..." title="Submitting order information..." class="v-middle"> 
+                                                    </div>
+                                                    <span class="h5">"Submitting order information..."</span>
+                                                    </div>
+                                                </div>
+                                            </div>
                                         </div>    
                                     </div>
                                     

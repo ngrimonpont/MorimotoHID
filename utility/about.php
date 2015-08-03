@@ -56,27 +56,22 @@
                     <img src="../img/jumbo-about.jpg" class="img-responsive" alt="" border="none">  
                 </div>
             </div>
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="about"></a>
             <div class="row page-links">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-lg-8 col-lg-offset-2">
                             <div class="btn-group btn-group-justified" role="group">
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#about">About</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#about-xs">About</a>
+                                    <a type="button" class="btn btn-link" href="#about">About</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#productdevelopment">Development</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#productdevelopment-xs">Development</a>
+                                    <a type="button" class="btn btn-link" href="#productdevelopment">Development</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#capabilities">Capabilities</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#capabilities-xs">Capabilities</a>
+                                    <a type="button" class="btn btn-link" href="#capabilities">Capabilities</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#sustainability">Sustainability</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#sustainability-xs">Sustainability</a>
+                                    <a type="button" class="btn btn-link" href="#sustainability">Sustainability</a>
                                 </div>
                             </div>
                         </div> 
@@ -85,7 +80,7 @@
             </div>
         </div>
 
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="about-xs"></a>
+        <a class="anchor" id="about"></a>
         <div class="section description">
             <div class="container">
                 <div class="row">
@@ -96,8 +91,6 @@
                     </div>  
                 </div>
             </div>
-        
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="productdevelopment"></a>
         
             <div class="container">
                 <div class="row">
@@ -112,7 +105,7 @@
             </div>
         </div>
 
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="productdevelopment-xs"></a>
+        <a class="anchor" id="productdevelopment"></a>
         <div class="container"><hr></div>
 
         <div class="section description">
@@ -126,9 +119,7 @@
                     <div class="img-special col-xs-12">
                         <img src="../img/productdev-process.svg" class="img-responsive" alt="" border="none">
                     </div>  
-        
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="capabilities"></a>
-        
+                
                     <div class="col-xs-12 col-md-6">
                         <p><span class="lead">OEM Service:</span> We welcome all original equipment inquiries and can organize production on your original designs. Whether your product is only partially rendered or has a full set of blueprints, tap into Morimoto’s wide range of resources to complete production. We will guarantee secrecy and exclusivity on all OEM projects to ensure the product never ends up in the wrong hands.</p>
                     </div>
@@ -159,7 +150,7 @@
             </div>
         </div>
 
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="capabilities-xs"></a>
+        <a class="anchor" id="capabilities"></a>
         <div class="container"><hr></div>
 
         <div class="section description">
@@ -170,9 +161,7 @@
                         <h2>Capabilities</h2>
                     </div>  
                 </div>
-            </div>
-        
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="sustainability"></a>
+            </div>            
         
             <div class="container">
                 <div class="row">
@@ -301,7 +290,7 @@
             </div>
         </div>
         
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="sustainability-xs"></a>
+        <a class="anchor" id="sustainability"></a>
         <div class="container"><hr></div>
 
         <div class="section description">

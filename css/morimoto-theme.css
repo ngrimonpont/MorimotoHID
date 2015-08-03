@@ -156,6 +156,15 @@ h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small,
 *, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; padding: 0; margin: 0; }
 a { padding: 0; margin: 0; color: #c6a571; text-decoration: none; -webkit-transition: background-color .4s linear, color .4s linear; -moz-transition: background-color .4s linear, color .4s linear; -o-transition: background-color .4s linear, color .4s linear; -ms-transition: background-color .4s linear, color .4s linear; transition: background-color .4s linear, color .4s linear; }
 a:hover, a:focus { text-decoration: none; color: #e2c675; }
+.utility a.anchor { display: block; position: relative; top: -80px; visibility: hidden; }
+@media (min-width:768px) {
+	.utility a.anchor { top: -100px; }
+}
+@media (min-width:992px) {
+	.utility a.anchor { top: -115px; }
+}
+
+
 .nopadding { padding: 0px !important; margin: 0px; }
 
 
@@ -517,6 +526,7 @@ ul.btn-group > .btn:first-child:not(:last-child):not(.dropdown-toggle), ul.btn-g
 }
 @media (min-width:992px) {
 	.jumbotron img { transform: translate(0, -20%); }
+	.about .jumbotron img { transform: none; }
 }
 @media (max-device-width:480px) and (orientation:landscape) {
 	.jumbotron { max-height: 200px; }

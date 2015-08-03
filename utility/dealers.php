@@ -56,23 +56,19 @@
                     <img src="../img/jumbo-dealers.jpg" class="img-responsive" alt="" border="none">  
                 </div>
             </div>
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="becomeadealer"></a>
             <div class="row page-links">
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-lg-8 col-lg-offset-2">
                             <div class="btn-group btn-group-justified" role="group">
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#becomeadealer">Become a Dealer</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#becomeadealer-xs">Become a Dealer</a>
+                                    <a type="button" class="btn btn-link" href="#becomeadealer">Become a Dealer</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#locateadealer">Locate a Dealer</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#locateadealer-xs">Locate a Dealer</a>
+                                    <a type="button" class="btn btn-link" href="#locateadealer">Locate a Dealer</a>
                                 </div>
                                 <div class="btn-group" role="group">
-                                    <a type="button" class="btn btn-link hidden-xs" href="#authenticity">Authenticity</a>
-                                    <a type="button" class="btn btn-link visible-xs-inline-block" href="#authenticity-xs">Authenticity</a>
+                                    <a type="button" class="btn btn-link" href="#authenticity">Authenticity</a>
                                 </div>
                             </div>
                         </div> 
@@ -81,7 +77,7 @@
             </div>
         </div>
 
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="becomeadealer-xs"></a>
+        <a class="anchor" id="becomeadealer"></a>
         <div class="section description">
             <div class="container">
                 <div class="row">
@@ -92,9 +88,7 @@
                     </div>  
                 </div>
             </div>
-        
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="locateadealer"></a>
-        
+                
             <div class="container">
                 <div class="row">
                     <div class="col-xs-12 col-md-6">
@@ -180,7 +174,7 @@
             </div>
         </div>
 
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="locateadealer-xs"></a>
+        <a class="anchor" id="locateadealer"></a>
         <div class="container"><hr></div>
 
         <div class="section description">
@@ -191,9 +185,7 @@
                         <h2>Locate a Dealer</h2>
                         <p class="large">If you’re part of the automotive industry or simply a discerning end-user; we recommend contacting one of our Master Distributors to purchase Morimoto Lighting products. With an authorized dealer on almost every continent, our distribution network reaches all corners of the world and is continues to expand.</p>
                     </div>
-        
-            <!-- Anchor tag :: must be placed sections prior due to fixed header  --><a name="authenticity"></a>
-        
+                
                     <div class="col-xs-12">
                         <p>Morimoto’s Master Dealers are held to rigorous standards. Their duty is to deliver the quality service that matches the products by offering everything from product recommendations, assistance with installation, and post sales support. Many apply for such status, few are granted the privilege. </p>
                     </div>
@@ -211,7 +203,7 @@
             </div>
         </div>
 
-        <!-- Anchor tag :: duplicate for mobile only  --><a name="authenticity-xs"></a>
+        <a class="anchor" id="authenticity"></a>
         <div class="container"><hr></div>
 
         <div class="section description">

@@ -491,6 +491,13 @@
     <script type="text/javascript">
         $('.btn').popover('hide');
         $('.btn').tooltip('hide');
+
+        $(document).ready(function(){
+            $('.btn').popover();
+            $('.btn').on('click', function (e) {
+                $('.btn').not(this).popover('hide');
+            });
+        });
     </script>   
     
     <!-- PRODUCT PAGES: Carousel -->

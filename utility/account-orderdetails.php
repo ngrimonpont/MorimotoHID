@@ -119,7 +119,7 @@
                                         </div>
                                         <div class="panel-body">
                                             <div class="row">
-                                                <p class="col-xs-12 small lead text-uppercase"><a href="#"><span class="text-tertiary">&gt; Print Order</span></a></p>
+                                                <p class="col-xs-12 small lead text-uppercase"><a href="javascript:window.print()"><span class="text-tertiary">&gt; Print Order</span></a></p>
                                             </div>
                                         </div>
                                         <div class="panel-body panel-footer">

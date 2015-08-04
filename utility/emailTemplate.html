@@ -19,12 +19,6 @@
                             </table>
                             <center>
                                 <table width="558" cellspacing="0" cellpadding="0" border="0">
-                                    
-                                    <tr>
-                                        <td>
-
-                                        </td>
-                                    </tr>
                                     <tr>
                                         <td align="left" valign="top" style="padding-top: 30px; padding-right: 10px; padding-bottom:30px; padding-left: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #454545;">
                                             <span style="font-size:22px; font-weight:normal; line-height:22px; margin:0 0 11px 0;">Hello, {{htmlescape var=$order.getCustomerName()}}</span><br><br>
@@ -106,16 +100,21 @@
                                                         Order Items:
                                                     </td>
                                                 </tr>
+                                                <tr>
+                                                    <td colspan="2" style="font-size:12px; padding:10px;">
+                                                                    {{layout handle="sales_email_order_items" order=$order}}
+                                                                </td>
+                                                </tr>
                                             </table>
                                         </td>
                                     </tr>
                                     <tr>
                                         <td align="center" valign="top" style="padding-top: 0px; padding-right: 10px; padding-bottom:30px; padding-left: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 13px; color: #454545;">
-
-                                            {{layout handle="sales_email_order_items" order=$order}}<br><br>
-                                            {{var comment}}<br><br>
-                                            Thank you,<br>
-                                            Morimoto HID
+                                            <table width="558" cellspacing="0" cellpadding="0" border="0">
+                                                {{var comment}}<br><br>
+                                                Thank you,<br>
+                                                Morimoto HID
+                                            </table>
                                         </td>
                                     </tr>
                                 </table>

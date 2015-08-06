@@ -225,15 +225,15 @@
                     </div>
 
                     <div class="col-xs-12 col-sm-4 img-special">
-                        <img src="../img/Morimoto_AuthorizedDistributorBadge_20120801.png" class="img-responsive" alt="" border="none">
+                        <img src="../img/morimotoHID-authorizedDealerBadge-emboss.png" class="img-responsive" alt="" border="none">
                         <p class="small">Look for the Morimoto Authorized Dealer logo on their site. It will contain a unique ID number and link to this page.</p>
                     </div>
                     <div class="col-xs-12 col-sm-4 img-special">
-                        <img src="../img/Morimoto_AuthorizedDistributorMap.png" class="img-responsive" alt="" border="none">
+                        <img src="../img/morimotoHID-authorizedDealerMap.png" class="img-responsive" alt="" border="none">
                         <p class="small">Verify that supplier’s location and company details appear on our dealer registry map. Beware of unknown dealers.</p>
                     </div>
                     <div class="col-xs-12 col-sm-4 img-special">
-                        <img src="../img/Morimoto_AuthorizedDistributorHologram.png" class="img-responsive" alt="" border="none">
+                        <img src="../img/morimotoHID-authorizedDealerHologram.png" class="img-responsive" alt="" border="none">
                         <p class="small">Ensure items arrive in proper Morimoto packaging and contain authenticity holograms.</p>
                     </div>        
                 </div>

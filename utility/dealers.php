@@ -237,6 +237,13 @@
                         <p class="small">Ensure items arrive in proper Morimoto packaging and contain authenticity holograms.</p>
                     </div>        
                 </div>
+                
+                <!-- Dealer Badge Test Code -->
+                <!-- <div class="row">
+                    <div class="col-xs-12 col-sm-4 img-special">
+                        <a class="dealer-badge" href="http://www.morimotohid.com/authorized-dealers/" target="_blank"><img src="../img/morimotoHID-masterDealerBadge.png" class="img-responsive" alt="Morimoto HID Master Dealer" border="0"></a>
+                    </div>
+                </div> -->
             </div>
         </div>            
         

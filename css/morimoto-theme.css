@@ -616,6 +616,7 @@ a .thumbnail:hover, a .thumbnail:focus, a .thumbnail.active { border-color: #E2C
 .thumbnail.special .caption { position: relative; float: left; background-color: #fff; }
 .thumbnail.special .caption .btn { margin-top: 20px; }
 @media (min-width:768px) {
+	.productcategory .thumbnail .thumbnail-image { max-height: 220px; }
 	.thumbnail.special .thumbnail-image { width: 50%; }
 	.thumbnailWrap { margin-bottom: 30px; }
 	.utility .thumbnailWrap, .utility .panelWrap { margin-bottom: 0; margin-top: 20px; }
@@ -625,7 +626,12 @@ a .thumbnail:hover, a .thumbnail:focus, a .thumbnail.active { border-color: #E2C
 	.thumbnail .thumbnail-image.dealersMapWrap { max-height: 450px; height: 450px; }
 }
 @media (min-width:992px) {
+	.productcategory .thumbnail .thumbnail-image { max-height: 250px; }
 	.thumbnail .thumbnail-image img { margin-top: -10%; }
+	.productcategory .thumbnail .thumbnail-image { max-height: 220px; }
+}
+@media (min-width:1200px) {
+	.productcategory .thumbnail .thumbnail-image { max-height: 290px; }
 }
 
 

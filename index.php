@@ -62,8 +62,8 @@
                     </div>
 
                     <div class="col-xs-12">
-                        <h4 class="text-white">Morimoto produces powerful lights. Our projectors put the power down.</h4> 
-                        <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>Projectors</a>
+                        <h4 class="text-white">The all-new Mini D2S 4.0 Bi-xenon Puts the Power to the Ground.</h4> 
+                        <a type="button" class="btn btn-large" href="http://www.morimotohid.com/components/projectors/bi-xenon-mini-d2s-4-0-projectors.html"><span class="hidden-xs">Shop </span>Mini D2S 4.0</a>
                     </div>  
    
                     <a id="down"></a>
@@ -81,8 +81,8 @@
                     </div>
 
                     <div class="col-xs-12">
-                        <h4 class="text-white">Morimoto understands the equal importance of both seeing and being seen.</h4> 
-                        <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">View </span>Applications</a>
+                        <h4 class="text-white">OE Fitments. Current Technology. Tomorrow world Looks. </h4> 
+                        <a type="button" class="btn btn-large" href="http://www.morimotohid.com/complete-headlight-fog-light-housings.html/"><span class="hidden-xs">Shop </span>Fog Lights</a>
                     </div>  
    
                     <a id="down2"></a>
@@ -101,7 +101,7 @@
 
                     <div class="col-xs-12">
                         <h4 class="text-white">OEM Grade XB HID technology by Morimoto outshines the competition.</h4> 
-                        <a type="button" class="btn btn-large" href="#"><span class="hidden-xs">Shop </span>HID Bulbs</a>
+                        <a type="button" class="btn btn-large" href="http://www.morimotohid.com/components/bulbs.html/"><span class="hidden-xs">Shop </span>HID Bulbs</a>
                     </div>  
    
                     <a id="down3"></a>
@@ -304,13 +304,13 @@
                             <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail special">
                                     <div class="thumbnail-image col-sm-6 pull-right">
-                                        <img src="img/temp--Morimoto XB35 AMP Ballast 3.jpg" class="img-responsive" alt="" border="none">
+                                        <img src="img/2Stroke News.jpg" class="img-responsive" alt="" border="none">
                                     </div>
                                     <div class="caption col-sm-6">
-                                        <h5>Apr 24, 2015</h5>
-                                        <h2>D2S: XB35 HID Ballasts</h2>
-                                        <p class="small">With distribution exceeding 150,000 units over the last four years; more enthusiasts chose Morimoto over any other aftermarket ballast. Easily filling the shoes of the 3Five units that they replace, the brand new XB35 ballasts excel in every way.</br></br>
-                                        Like all modern OEM D1 and D2 ballasts: the XB has modular igniters far closer to the HID bulb. The lack of high voltage transmitted through wiring drastically reduces EMI/RFI (radio interference). Total system reliability is also improved by shielding the main circuit board from the static produced by these high voltage bursts on start up.</p>
+                                        <h5>Oct 17, 2015</h5>
+                                        <h2>2Stroke: LED Headlight Conversion</h2>
+                                        <p class="small">Everybody wants LED headlight bulbs today, but for all the wrong reasons. The diverse marketing tactics and the numbers war that's pushed onto ill-advised consumers is only getting more and more amusing to guys like us who actually know better. </br></br>
+                                        Despite the fact that we haven't really had anything to offer in this niche, well, at least without risking our reputation selling our customers something that we truly didn't believe in: We stood on the sidelines for long enough learning from everybody else's mistakes. In testing the 2Stroke system side by side with a multitude of other designs, it’s time to be excited about LED headlight bulbs for the first time. Against the odds and certainly many expectations; seeing is believing!</p>
                                         <div type="button" class="btn btn-primary">Learn More</div>
                                     </div>
                                 </div>    

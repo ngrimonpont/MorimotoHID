@@ -138,7 +138,7 @@
                     
                     <div class="col-xs-12 col-md-8">
                         <!-- If item is in Cart -->
-                        <!-- <div class="row">
+                        <div class="row">
                             <div class="col-xs-12">
                                 <div class="panelWrap">
                                     <div class="panel panel-default">
@@ -233,7 +233,7 @@
                                     </div>
                                 </div>    
                             </div>
-                        </div> -->
+                        </div>
 
                         <!-- If Cart is empty -->
                         <div class="row">

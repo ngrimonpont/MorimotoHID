@@ -304,13 +304,13 @@
                             <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail special">
                                     <div class="thumbnail-image col-sm-6 pull-right">
-                                        <img src="img/2Stroke News.jpg" class="img-responsive" alt="" border="none">
+                                        <img src="img/news/2Stroke News.jpg" class="img-responsive" alt="" border="none">
                                     </div>
                                     <div class="caption col-sm-6">
-                                        <h5>Oct 17, 2015</h5>
+                                        <h5>Oct 17, 2016</h5>
                                         <h2>2Stroke: LED Headlight Conversion</h2>
                                         <p class="small">Everybody wants LED headlight bulbs today, but for all the wrong reasons. The diverse marketing tactics and the numbers war that's pushed onto ill-advised consumers is only getting more and more amusing to guys like us who actually know better. </br></br>
-                                        Despite the fact that we haven't really had anything to offer in this niche, well, at least without risking our reputation selling our customers something that we truly didn't believe in: We stood on the sidelines for long enough learning from everybody else's mistakes. In testing the 2Stroke system side by side with a multitude of other designs, it’s time to be excited about LED headlight bulbs for the first time. Against the odds and certainly many expectations; seeing is believing!</p>
+                                        Without risking our reputation by putting our name on a product that we didn’t really believe in, we haven’t had something to offer this niche until now. Learning from everybody else’s mistakes; we stood on the sidelines for long enough and are proud to unleash the 2Stroke. In testing the 2Stroke system side by side with a multitude of other designs, it’s time to be excited about LED headlight bulbs for the first time. Against the odds and certainly many expectations; seeing is believing!</p>
                                         <div type="button" class="btn btn-primary">Learn More</div>
                                     </div>
                                 </div>    

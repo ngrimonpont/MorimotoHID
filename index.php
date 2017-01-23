@@ -317,15 +317,15 @@
                             </a>
                         </div>
                         <div class="col-sm-6">
-                            <a class="thumbnailWrap" href="#">
+                            <a class="thumbnailWrap" href="http://betterautomotivelighting.com/2017/01/19/morimoto-laser-bulb-concept-revealed-at-dvn-detroit-2017/" target="_blank">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
-                                        <img src="img/news/news-led-20150623.jpg" class="img-responsive" alt="" border="none">
+                                        <img src="img/news/news-dvnDetroit-20170110.jpg" class="img-responsive" alt="" border="none">
                                     </div>
                                     <div class="caption col-xs-12">
-                                        <h5>Apr 24, 2015</h5>
-                                        <h3>The Future is bright</h3>
-                                        <p class="small">And it’s powered by an LED. Morimoto is exploring and refining optical systems based on solid-state lighting.</p>
+                                        <h5>Jan 10, 2017</h5>
+                                        <h3>Morimoto’s “RLP” Laser Lighting Concept unveiled at DVN Detroit</h3>
+                                        <p class="small">In cooperation with Synopsys, our remote laser point lighting expands freedom of design for OEM Market.</p>
                                         <hr>
                                         <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
                                     </div>
@@ -336,12 +336,12 @@
                             <a class="thumbnailWrap" href="#">
                                 <div class="thumbnail">
                                     <div class="thumbnail-image">
-                                        <img src="img/news/news-expandnetwork-20150623.jpg" class="img-responsive" alt="" border="none">
+                                        <img src="img/news/news-mled-20170120.jpg" class="img-responsive" alt="" border="none">
                                     </div>
                                     <div class="caption col-xs-12">
-                                        <h5>Apr 24, 2015</h5>
-                                        <h3>Morimoto Expands Dealer Network</h3>
-                                        <p class="small">By Q2 2015, in cooperation with our dealers: International demand distribution has increased by over 50% since 2014.</p>
+                                        <h5>Jan 20, 2017</h5>
+                                        <h3>Bye bye Bi-xenon, Hello M-LED</h3>
+                                        <p class="small">Morimoto’s new M-LED Projector is scheduled to launch this spring. They will feature fantastic low and high beam performance. </p>
                                         <hr>
                                         <h6 class="text-right text-primary text-weight900pluto">More Info ></h6>
                                     </div>
